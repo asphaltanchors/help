@@ -1,40 +1,61 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: Asphalt Anchors Help Center
+description: Documentation and guides for Asphalt Anchor installation, testing, and usage.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Everything you need to know about installing and using Asphalt Anchors
   image:
     file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Most Viewed
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Asphalt Anchor Installation Guide" icon="document">
+		Complete installation instructions including requirements, tips, and tricks for proper installation of Asphalt Anchors.
+
+		[Read the guide →](/installation/anchor-install/)
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Pull Test Methodology" icon="approve-check">
+		Detailed overview of how we test Asphalt Anchors to determine rated holding strength.
+
+		[Learn about testing →](/testing/pull-test-methodology/)
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+</CardGrid>
+
+## Installation
+
+<CardGrid stagger>
+	<Card title="Installation Guide" icon="rocket">
+		Instructions on usage and installation of Asphalt Anchors
+
+		[View guide →](/installation/anchor-install/)
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Bad Weather Installation" icon="warning">
+		Can I install Asphalt Anchors in hot/wet/cold weather?
+
+		[Learn more →](/installation/bad-weather/)
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Edge Installation" icon="information">
+		How close to the edge of asphalt can I install anchors?
+
+		[Read guidelines →](/installation/edge/)
+	</Card>
+	<Card title="Asphalt Thickness" icon="pencil">
+		Impact and requirements for asphalt thickness
+
+		[View requirements →](/installation/asphalt-thickness/)
+	</Card>
+</CardGrid>
+
+## Testing
+
+<CardGrid stagger>
+	<Card title="Pull Test Methodology" icon="setting">
+		Detailed information on strength and testing protocols
+
+		[View methodology →](/testing/pull-test-methodology/)
 	</Card>
 </CardGrid>
