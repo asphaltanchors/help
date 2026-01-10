@@ -7,6 +7,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Asphalt Anchors",
+      customCss: [
+        './src/styles/custom.css',
+      ],
       // social: [
       //   {
       //     icon: "github",
@@ -18,6 +21,10 @@ export default defineConfig({
         {
           label: "Installation",
           autogenerate: { directory: "installation" },
+        },
+        {
+          label: "Orders",
+          autogenerate: { directory: "orders" },
         },
         {
           label: "Testing",
