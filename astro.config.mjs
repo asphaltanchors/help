@@ -8,19 +8,17 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Asphalt Anchors",
-      customCss: [
-        './src/styles/custom.css',
-      ],
+      customCss: ["./src/styles/custom.css"],
       head: [
         {
-          tag: 'script',
+          tag: "script",
           attrs: {
             async: true,
-            src: 'https://www.googletagmanager.com/gtag/js?id=G-W9LD0RR16F',
+            src: "https://www.googletagmanager.com/gtag/js?id=G-W9LD0RR16F",
           },
         },
         {
-          tag: 'script',
+          tag: "script",
           content: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -40,6 +38,10 @@ export default defineConfig({
         {
           label: "Installation",
           autogenerate: { directory: "installation" },
+        },
+        {
+          label: "Product Info",
+          autogenerate: { directory: "product-info" },
         },
         {
           label: "Orders",
