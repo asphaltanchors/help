@@ -9,10 +9,10 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 
 | Model | Rated Pull | Drill Depth | Drill Diameter | Bolt Torque | Adhesive per Anchor |
 | --- | --- | --- | --- | --- | --- |
-| SP10/AM625 | 1,500 lbs | 6" | 7/8" | 200 lb-in | 60 mL |
-| SP12 | 2,000 lbs | 12" | 7/8" | 200 lb-in | 120 mL |
-| SP18 | 2,500 lbs | 12" | 1" | 280 lb-in | 150 mL |
-| SP58 | 5,000 lbs | 10" | 1.5" | 720 lb-in | 290 mL |
+| [[SP10]]/[[AM625]] | 1,500 lbs | 6" | 7/8" | 200 lb-in | 60 mL |
+| [[SP12]] | 2,000 lbs | 12" | 7/8" | 200 lb-in | 120 mL |
+| [[SP18]] | 2,500 lbs | 12" | 1" | 280 lb-in | 150 mL |
+| [[SP58]] | 5,000 lbs | 10" | 1.5" | 720 lb-in | 290 mL |
 
 **Spacing requirements:** Ratings assume 12" minimum between anchors. For closer spacing, derate all but the first anchor by 6% for every inch less than 12".
 
