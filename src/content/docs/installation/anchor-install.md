@@ -22,7 +22,7 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 
 1. **Drill** - Create hole to specified depth and diameter
 2. **Brush** - Thoroughly clean hole with nylon tube brush
-3. **Pour** - Fill hole with adhesive (EPX2 or EPX3)
+3. **Pour** - Fill hole roughly 2/3 to the top with adhesive (EPX2 or EPX3)
 4. **Hammer** - Insert anchor with up/down motion until flush
 5. **Top Up** - Ensure adhesive reaches surface around anchor head
 6. **Flush** - Clean excess adhesive immediately
@@ -123,6 +123,8 @@ Asphalt flows under continuous stress but is resilient under short-duration forc
 
 ## Temperature Considerations
 
+See our [bad weather article](/installation/bad-weather) for specific details on hot, cold, and wet condition installations.
+
 **Cold weather (<50°F):**
 
 * EPX2 may not cure - use EPX3 instead
@@ -133,12 +135,12 @@ Asphalt flows under continuous stress but is resilient under short-duration forc
 **Hot weather (>85°F):**
 
 * Pot life becomes very short (single minutes)
-* For direct sun exposure in tropical climates, use white 8x8 acrylic shade plate
+* Asphalt softens above 110 F surface temperature. For installations up to 150 F derate strength by 50%.
 
 ## Common Errors to Avoid
 
 * Insufficient hole cleaning (causes weak bond)
-* Not filling hole to the top (severely reduces strength)
+* Not filling hole to the top (reduces strength)
 * Using wrong drill type (standard chuck instead of SDS)
 * Applying EPX2 below 50°F
 * Over-torquing bolts or using impact wrench
