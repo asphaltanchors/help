@@ -1,19 +1,6 @@
-/* Hero background image - full width edge to edge */
-.hero {
-	position: relative;
-}
-
-.hero::before {
-	content: '';
-	position: absolute;
-	top: 0;
-	left: 50%;
-	transform: translateX(-50%);
-	width: 100vw;
-	height: 100%;
-	background-image: url('../assets/bolthold_slider_image.jpg');
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	z-index: -1;
+/* Make CardGrid 3 columns on wide screens */
+@media (min-width: 50rem) {
+	.card-grid {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
 }
