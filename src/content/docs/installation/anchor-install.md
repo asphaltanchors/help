@@ -30,8 +30,8 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 ## Required Supplies
 
 * **Drilling:** SDS+ or SDS MAX drill & masonry bit 
-* **Cleaning:** Nylon tube brush (P/N 46-3001), compressed air or blower
-* **Adhesive:** EPX2 (cement) or EPX3 (epoxy)
+* **Cleaning:** Hole Cleaning Brush [[BRH]], compressed air or blower
+* **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (epoxy)
 * **Installation:** Mallet
 
 ## Adhesive Selection
