@@ -10,9 +10,9 @@ This is the help site for asphaltanchors.com built with Astro and Starlight, a d
 
 Development:
 ```bash
-pnpm dev          # Start dev server at localhost:4321
-pnpm build        # Build production site to ./dist/
-pnpm preview      # Preview production build locally
+npm run dev       # Start dev server at localhost:4321
+npm run build     # Build production site to ./dist/
+npm run preview   # Preview production build locally
 ```
 
 ## Architecture
@@ -33,4 +33,3 @@ pnpm preview      # Preview production build locally
 - Frontmatter requires `title` and `description` fields per Starlight schema
 - Static assets go in `public/`, images for embedding in docs go in `src/assets/`
 - Homepage cards use Starlight's built-in components: `Card`, `CardGrid`
-

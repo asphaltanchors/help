@@ -8,9 +8,9 @@ Guidance for agents working in this repository.
 - Sidebar is auto-generated from folder structure in `astro.config.mjs`.
 
 ## Quick commands
-- `pnpm dev` start dev server at localhost:4321
-- `pnpm build` build production site to `./dist/`
-- `pnpm preview` preview production build
+- `npm run dev` start dev server at localhost:4321
+- `npm run build` build production site to `./dist/`
+- `npm run preview` preview production build
 
 ## Content rules
 - New docs go in `src/content/docs/` under the right section folder.

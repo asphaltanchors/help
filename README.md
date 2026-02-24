@@ -5,9 +5,9 @@ Help documentation site for asphaltanchors.com built with Astro Starlight.
 ## Development
 
 ```bash
-pnpm dev      # Start dev server at localhost:4321
-pnpm build    # Build production site to ./dist/
-pnpm preview  # Preview production build
+npm run dev      # Start dev server at localhost:4321
+npm run build    # Build production site to ./dist/
+npm run preview  # Preview production build
 ```
 
 ## Adding Content
