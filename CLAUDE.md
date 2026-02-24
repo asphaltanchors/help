@@ -33,3 +33,4 @@ pnpm preview      # Preview production build locally
 - Frontmatter requires `title` and `description` fields per Starlight schema
 - Static assets go in `public/`, images for embedding in docs go in `src/assets/`
 - Homepage cards use Starlight's built-in components: `Card`, `CardGrid`
+
