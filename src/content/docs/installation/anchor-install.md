@@ -18,6 +18,8 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 
 **Asphalt thickness:** Ratings based on 3" thickness. For thicker asphalt, increase capacity proportionally (e.g., 4" asphalt = 1.33x rating).
 
+**Material selection:** Zinc plated and stainless steel anchors have the same published strength ratings. Choose the material based on corrosion exposure. See [Zinc Plated vs Stainless Steel Anchors](/product-info/zinc-vs-stainless/).
+
 ## Installation Overview
 
 1. **Drill** - Create hole to specified depth and diameter
