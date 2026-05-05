@@ -8,8 +8,35 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Asphalt Anchors",
+      logo: {
+        src: "./src/assets/logo-horizontal.png",
+        alt: "Asphalt Anchors",
+        replacesTitle: true,
+      },
       customCss: ["./src/styles/custom.css"],
       head: [
+        {
+          tag: "link",
+          attrs: {
+            rel: "preconnect",
+            href: "https://fonts.googleapis.com",
+          },
+        },
+        {
+          tag: "link",
+          attrs: {
+            rel: "preconnect",
+            href: "https://fonts.gstatic.com",
+            crossorigin: "",
+          },
+        },
+        {
+          tag: "link",
+          attrs: {
+            rel: "stylesheet",
+            href: "https://fonts.googleapis.com/css2?family=Overpass:wght@400;500;600;700&display=swap",
+          },
+        },
         {
           tag: "script",
           attrs: {

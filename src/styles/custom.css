@@ -1,6 +1,136 @@
-/* Make CardGrid 3 columns on wide screens */
+@layer starlight.base {
+	:root {
+		--aa-orange: #f04923;
+		--aa-black: #2d2926;
+		--aa-cream: #ece5d2;
+		--aa-stone: #b0a9a0;
+		--aa-paper: #f9f7f2;
+
+		--sl-font: "Overpass", "Interstate", "Avenir Next", "Segoe UI", sans-serif;
+		--sl-color-accent-low: color-mix(in srgb, var(--aa-orange) 18%, var(--aa-black));
+		--sl-color-accent: var(--aa-orange);
+		--sl-color-accent-high: #ffb09d;
+		--sl-color-text-accent: #ffb09d;
+		--sl-color-bg: #211f1d;
+		--sl-color-bg-nav: var(--aa-cream);
+		--sl-color-bg-sidebar: #25221f;
+		--sl-color-bg-inline-code: #39332f;
+		--sl-color-hairline-light: #504941;
+		--sl-color-hairline: #37322e;
+		--sl-color-hairline-shade: #181614;
+		--sl-color-text: #e5ded3;
+		--sl-color-gray-1: #f9f7f2;
+		--sl-color-gray-2: #e5ded3;
+		--sl-color-gray-3: #c7beb3;
+		--sl-color-gray-4: #9e958c;
+		--sl-color-gray-5: #5f554d;
+		--sl-color-gray-6: #312c28;
+		--sl-color-black: #211f1d;
+		--sl-color-white: #fffaf0;
+		--sl-content-width: 48rem;
+		--sl-line-height: 1.72;
+		--sl-line-height-headings: 1.14;
+	}
+
+	:root[data-theme="light"] {
+		--sl-color-accent-low: #fde2da;
+		--sl-color-accent: #bf3419;
+		--sl-color-accent-high: #7d1e10;
+		--sl-color-text-accent: #a42a15;
+		--sl-color-bg: var(--aa-paper);
+		--sl-color-bg-nav: var(--aa-cream);
+		--sl-color-bg-sidebar: #f4efe3;
+		--sl-color-bg-inline-code: #eee7d8;
+		--sl-color-bg-accent: #bf3419;
+		--sl-color-hairline-light: #e3dac9;
+		--sl-color-hairline: #d8cebd;
+		--sl-color-hairline-shade: #cbc0b0;
+		--sl-color-text: var(--aa-black);
+		--sl-color-gray-1: #211f1d;
+		--sl-color-gray-2: #2d2926;
+		--sl-color-gray-3: #514a43;
+		--sl-color-gray-4: #81786f;
+		--sl-color-gray-5: #b0a9a0;
+		--sl-color-gray-6: #ece5d2;
+		--sl-color-gray-7: #f9f7f2;
+		--sl-color-black: #fffdf8;
+		--sl-color-white: var(--aa-black);
+	}
+}
+
+html {
+	background: var(--sl-color-bg);
+}
+
+body {
+	font-feature-settings: "kern";
+}
+
+a {
+	text-underline-offset: 0.16em;
+}
+
+.site-title img {
+	max-height: 1.75rem;
+}
+
+.hero > img {
+	max-height: 11rem;
+	padding: 0;
+	background: transparent;
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.hero h1 {
+	font-weight: 700;
+	letter-spacing: 0;
+}
+
+.hero .tagline {
+	font-weight: 500;
+}
+
+.card {
+	border-color: var(--sl-color-hairline);
+	border-radius: 8px;
+	background: var(--sl-color-black);
+	box-shadow: none;
+}
+
+.card .icon {
+	color: var(--aa-orange);
+	padding: 0;
+	background: transparent;
+	border: 0;
+	border-radius: 0;
+}
+
+.card a,
+.sl-markdown-content a {
+	font-weight: 600;
+}
+
+.sl-markdown-content :is(h2, h3, h4) {
+	letter-spacing: 0;
+}
+
+.sl-markdown-content hr {
+	border-color: var(--sl-color-hairline);
+}
+
+starlight-sidebar-top,
+.sidebar-pane {
+	background: var(--sl-color-bg-sidebar);
+}
+
 @media (min-width: 50rem) {
 	.card-grid {
 		grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	.hero > img {
+		max-height: 16rem;
 	}
 }
