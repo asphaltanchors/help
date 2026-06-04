@@ -36,6 +36,8 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 * **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (epoxy)
 * **Installation:** Mallet
 
+For planning labor and tool selection, see [How Long Does Asphalt Anchor Installation Take?](/installation/installation-time/) and [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/).
+
 ## Adhesive Selection
 
 ### EPX2 - Expanding Cement
@@ -62,6 +64,8 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 * Don't apply excessive force; this prevents jamming
 * Clean drill bit flutes after each hole
 * If holes fill with water, use EPX3 instead of EPX2
+
+Drill size can significantly affect installation speed, especially on larger jobs. See [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/) for a focused discussion.
 
 ### Hole Cleaning 
 
