@@ -14,7 +14,15 @@ export default defineConfig({
         replacesTitle: true,
       },
       customCss: ["./src/styles/custom.css"],
+      favicon: "/favicon.png",
       head: [
+        {
+          tag: "link",
+          attrs: {
+            rel: "apple-touch-icon",
+            href: "/apple-touch-icon.png",
+          },
+        },
         {
           tag: "link",
           attrs: {

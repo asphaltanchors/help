@@ -74,8 +74,12 @@ a {
 	max-height: 1.75rem;
 }
 
-.hero > img {
+.hero img {
 	max-height: 11rem;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	object-fit: contain;
 	padding: 0;
 	background: transparent;
 	border: 0;
@@ -143,7 +147,7 @@ starlight-sidebar-top,
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 
-	.hero > img {
+	.hero img {
 		max-height: 16rem;
 	}
 }
