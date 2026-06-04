@@ -1,3 +1,6 @@
+#symlink to brand assets
+_BRAND
+
 # build output
 dist/
 # generated types
