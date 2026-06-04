@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import starlight from "@astrojs/starlight";
 import remarkProductLinks from "./plugins/remark-product-links.mjs";
 
@@ -72,24 +73,26 @@ export default defineConfig({
       sidebar: [
         {
           label: "Installation",
-          autogenerate: { directory: "installation" },
+          items: [{ autogenerate: { directory: "installation" } }],
         },
         {
           label: "Product Info",
-          autogenerate: { directory: "product-info" },
+          items: [{ autogenerate: { directory: "product-info" } }],
         },
         {
           label: "Orders",
-          autogenerate: { directory: "orders" },
+          items: [{ autogenerate: { directory: "orders" } }],
         },
         {
           label: "Testing",
-          autogenerate: { directory: "testing" },
+          items: [{ autogenerate: { directory: "testing" } }],
         },
       ],
     }),
   ],
   markdown: {
-    remarkPlugins: [remarkProductLinks],
+    processor: unified({
+      remarkPlugins: [remarkProductLinks],
+    }),
   },
 });
