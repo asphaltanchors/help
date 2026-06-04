@@ -1,5 +1,13 @@
-@layer starlight.base {
-	:root {
+@font-face {
+	font-family: "Lone Garage";
+	src: url("/fonts/lone-garage-floor-bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Brand variables sit unlayered so they win over Starlight's defaults. */
+:root {
 		--aa-orange: #f04923;
 		--aa-black: #2d2926;
 		--aa-cream: #ece5d2;
@@ -7,6 +15,7 @@
 		--aa-paper: #f9f7f2;
 
 		--sl-font: "Overpass", "Interstate", "Avenir Next", "Segoe UI", sans-serif;
+		--aa-display: "Lone Garage", "Overpass", "Interstate", sans-serif;
 		--sl-color-accent-low: color-mix(in srgb, var(--aa-orange) 18%, var(--aa-black));
 		--sl-color-accent: var(--aa-orange);
 		--sl-color-accent-high: #ffb09d;
@@ -56,7 +65,6 @@
 		--sl-color-black: #fffdf8;
 		--sl-color-white: var(--aa-black);
 	}
-}
 
 html {
 	background: var(--sl-color-bg);
@@ -150,4 +158,21 @@ starlight-sidebar-top,
 	.hero img {
 		max-height: 16rem;
 	}
+}
+
+/* Brand display type — condensed industrial face for the datasheet voice.
+   Forced uppercase since the face is an all-caps display font. */
+#_top,
+.sl-markdown-content h2,
+.card .title {
+	font-family: var(--aa-display);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.015em;
+	line-height: 1.08;
+}
+
+/* Orange section headers, echoing the datasheet's "OVERVIEW / WHY ASPHALT ANCHORS?". */
+.sl-markdown-content h2 {
+	color: var(--sl-color-text-accent);
 }
