@@ -124,15 +124,17 @@ Mix for 4 anchors at minimum (smaller batches are hard to measure):
 
 **Static loading (continuous pull on anchors):** Limit to 20% of rated pull capacity
 
-:::caution[Derate for hot pavement]
-Above an 80°F pavement temperature, measured pull capacity appears to decline by approximately 10–15% for each additional 10°F, with installation-to-installation variation. Account for the pavement temperature when the anchor will be under load. See [Anchor Strength Testing](/testing/anchor-strength-testing/#surface-temperature-during-use) for details.
+:::caution[Hot pavement can reduce anchor capacity]
+Heat affects the asphalt surrounding the anchor, not just adhesive installation and curing. In our Sonoma testing on PG64-16 pavement, measured pull capacity declined approximately 10–15% for each additional 10°F above an 80°F pavement temperature.
+
+This result is specific to the tested pavement. Binder grade, mix design, pavement condition, and temperature through the anchor depth can materially change performance. Do not treat this relationship as a universal derating rule. For critical applications exposed to pavement temperatures above 80°F, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/).
 :::
 
 Asphalt flows under continuous stress but is resilient under short-duration forces. The adhesive creates a stress-free bond that holds for years, unlike expansion anchors which loosen in asphalt.
 
 ## Temperature Considerations
 
-Adhesive temperature limits control when an anchor can be installed and how quickly it cures. Pavement temperature during use affects the cured anchor's pull capacity. See [Bad Weather Installation](/installation/bad-weather/) for hot, cold, and wet installation procedures.
+Adhesive temperature limits control when an anchor can be installed and how quickly it cures. Pavement temperature during use affects the cured anchor's pull capacity. See [Bad Weather Installation](/installation/bad-weather/) for installation procedures and [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for in-service capacity guidance.
 
 ## Common Errors to Avoid
 

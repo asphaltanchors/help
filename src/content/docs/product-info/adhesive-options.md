@@ -66,7 +66,7 @@ Once cured, all three adhesives are weather resistant. However, temperature stil
 * EPX3 can be used in wet and standing water conditions and can be installed down to 14F when handled correctly.
 * EPX5 can be used in wet and standing water conditions and can be installed down to 24F when handled correctly.
 
-Above an 80°F pavement temperature, measured pull capacity appears to decline by approximately 10–15% for each additional 10°F, with installation-to-installation variation. See [Anchor Strength Testing](/testing/anchor-strength-testing/#surface-temperature-during-use) for details.
+Hot pavement can reduce the holding capacity of a cured anchor independently of adhesive weather resistance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for guidance.
 
 For detailed cold, wet, and hot weather handling, see [Bad Weather Installation](/installation/bad-weather/).
 

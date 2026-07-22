@@ -22,6 +22,8 @@ Asphalt Anchors can be installed in rain, heat, and cold within the limits of th
 
 Warm weather significantly speeds up the curing process of all of our adhesives. To ensure the adhesive has sufficient working time, keep the adhesive shaded and cool at all times. For EPX2, you can work in ice water during mixing. For EPX3 or EPX5, keep the cartridge in a cooler/fridge until use.
 
-:::caution[Hot pavement reduces pull capacity]
-Above an 80°F pavement temperature, measured pull capacity appears to decline by approximately 10–15% for each additional 10°F, with installation-to-installation variation. Account for the pavement temperature when the anchor will be under load, not only the air temperature during installation. See [Anchor Strength Testing](/testing/anchor-strength-testing/#surface-temperature-during-use) for details.
+:::caution[Hot pavement can reduce anchor capacity]
+Heat affects the asphalt surrounding the anchor, not just adhesive installation and curing. In our Sonoma testing on PG64-16 pavement, measured pull capacity declined approximately 10–15% for each additional 10°F above an 80°F pavement temperature.
+
+This result is specific to the tested pavement. Binder grade, mix design, pavement condition, and temperature through the anchor depth can materially change performance. Do not treat this relationship as a universal derating rule. For critical applications exposed to pavement temperatures above 80°F, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/).
 :::
