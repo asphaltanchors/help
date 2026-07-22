@@ -124,11 +124,15 @@ Mix for 4 anchors at minimum (smaller batches are hard to measure):
 
 **Static loading (continuous pull on anchors):** Limit to 20% of rated pull capacity
 
+:::caution[Derate for hot pavement]
+Above an 80°F pavement temperature, measured pull capacity appears to decline by approximately 10–15% for each additional 10°F, with installation-to-installation variation. Account for the pavement temperature when the anchor will be under load. See [Anchor Strength Testing](/testing/anchor-strength-testing/#surface-temperature-during-use) for details.
+:::
+
 Asphalt flows under continuous stress but is resilient under short-duration forces. The adhesive creates a stress-free bond that holds for years, unlike expansion anchors which loosen in asphalt.
 
 ## Temperature Considerations
 
-See our [bad weather article](/installation/bad-weather) for specific details on hot, cold, and wet condition installations.
+Adhesive temperature limits control when an anchor can be installed and how quickly it cures. Pavement temperature during use affects the cured anchor's pull capacity. See [Bad Weather Installation](/installation/bad-weather/) for hot, cold, and wet installation procedures.
 
 ## Common Errors to Avoid
 
