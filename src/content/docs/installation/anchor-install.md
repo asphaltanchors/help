@@ -118,6 +118,8 @@ Mix for 4 anchors at minimum (smaller batches are hard to measure):
 4. Tighten to specified torque - **never use an impact wrench**
 5. Minimum thread engagement: greater of 5 turns or 0.75"
 
+If you remove an attached object for the season or between uses, install a short set screw to keep snow, sand, rocks, and other debris out of the open threads. See [Protecting Anchor Threads from Debris During Seasonal Storage](/installation/protecting-anchor-threads/).
+
 ## Loading Guidelines
 
 **Dynamic loading (wind/snow/ice on stable structure):** Use 80% of rated pull capacity
