@@ -37,7 +37,7 @@ Smaller brushes or older brushes can still be used if they are in good shape. Ma
 
 ## Drill Setup
 
-Use the brush with a locking drill bit extension so the brush reaches the bottom of the hole. Any drill can be used for this cleaning step.
+Use the brush with a locking drill bit extension so the brush reaches the bottom of the hole. Any drill can be used for this cleaning step. See [Find Installation Accessories Locally](/product-info/local-accessory-alternatives/) for local sourcing guidance.
 
 Set the drill to:
 
