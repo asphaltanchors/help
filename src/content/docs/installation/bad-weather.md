@@ -1,29 +1,29 @@
 ---
-title: Bad Weather Installation
-description: Can I install Asphalt Anchors in Hot/Wet/Cold weather?
+title: Weather and Temperature Installation
+description: How to install Asphalt Anchors in hot, cold, wet, or rainy conditions.
 ---
 Asphalt Anchors can be installed in rain, heat, and cold within the limits of the selected adhesive. Installation temperature affects adhesive handling and curing; pavement temperature while the cured anchor is under load affects its pull capacity.
 
-## RAIN & WET
+## Rain and Wet Conditions
 
-**[[EPX3]] and [[EPX5]]** can be used in wet and standing water.
+**[[EPX3]] and [[EPX5]]** can be used in wet conditions and standing water.
 
-**[[EPX2]]** must be installed in dry conditions. While the EPX2 is waterproof once it hardens, rain can dilute the grout mixture when poured into the hole. This can be caused by standing water in the hole, or by water seeping into the hole from the rain or from a high water-table in the area. If you are unable to fully dry the hole, use the EPX3 instead.
+**[[EPX2]]** must be installed in dry conditions. Although EPX2 is waterproof once it hardens, water can dilute the grout as it is poured into the hole. This can be caused by standing water, rain, or a high water table. If you cannot fully dry the hole, use EPX3 instead.
 
-## COLD TEMPERATURE
+## Cold Temperatures
 
-**EPX2** adhesive uses water in the mix. If the ambient temperature is below 50F, use warm water in the mix, then quickly dispense the mix into the hole. EPX2 can not be installed below 40F.
+**[[EPX2]]** uses water in the mix. Below 50°F ambient temperature, use warm mixing water and dispense the mixture into the hole promptly. Do not install EPX2 below 40°F.
 
-**EPX3** adhesive can be installed down to 14F. However, you need to pre-heat the EPX3 adhesive package to 70F before using it. If the EPX3 is used cold (below 50F) it will take much longer to cure, and at subfreezing epoxy temperature the curing will not even start. Once the curing starts it is exothermic and will self sustain in most temperatures.
+**[[EPX3]]** can be installed down to 14°F when handled correctly. Preheat the cartridge to 70°F before use. Below 50°F, cold adhesive takes much longer to cure; if the adhesive itself is below freezing, curing will not begin. Once curing starts, the reaction generates heat and can sustain itself in most temperatures.
 
-**EPX5** is the same as EPX3, but only useable down to 24F.
+**[[EPX5]]** follows the same cold-weather handling principles as EPX3 but can be installed only down to 24°F.
 
-## HOT TEMPERATURE
+## Hot Temperatures
 
-Warm weather significantly speeds up the curing process of all of our adhesives. To ensure the adhesive has sufficient working time, keep the adhesive shaded and cool at all times. For EPX2, you can work in ice water during mixing. For EPX3 or EPX5, keep the cartridge in a cooler/fridge until use.
+Warm weather significantly speeds up the curing of all our adhesives. To preserve sufficient working time, keep the adhesive shaded and cool. For EPX2, place the mixing container in ice water. Keep EPX3 and EPX5 cartridges in a cooler or refrigerator until use.
 
 :::caution[Hot pavement can reduce anchor capacity]
-Heat affects the asphalt surrounding the anchor, not just adhesive installation and curing. In our Sonoma testing on PG64-16 pavement, measured pull capacity declined approximately 10–15% for each additional 10°F above an 80°F pavement temperature.
+Heat affects the asphalt surrounding a cured anchor, independently of adhesive handling during installation. In our Sonoma testing on PG64-16 pavement, results were grouped into 10°F buckets and normalized to each anchor model's average in the 70°F reference bucket. At 120°F, the highest bucket tested so far, all tested anchor models retained approximately 58–62% of their reference pull capacity.
 
-This result is specific to the tested pavement. Binder grade, mix design, pavement condition, and temperature through the anchor depth can materially change performance. Do not treat this relationship as a universal derating rule. For critical applications exposed to pavement temperatures above 80°F, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/).
+This measured range is specific to the tested pavement and is not a universal derating rule. For critical hot-pavement applications, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the complete results and limitations.
 :::

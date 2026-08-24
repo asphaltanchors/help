@@ -61,7 +61,7 @@ The [installation guide](/installation/anchor-install/#hole-cleaning) covers the
 
 Adhesive affects both installation workflow and the time before anchors can be loaded.
 
-[[EPX2]] is the most economical option and works well in dry conditions within its temperature limits. [[EPX3]] is more convenient in some field conditions and is the better choice for wet holes or cold weather. See [Bad Weather Installation](/installation/bad-weather/) for temperature and moisture considerations.
+[[EPX2]] is the most economical option and works well in dry conditions within its temperature limits. [[EPX3]] is more convenient in some field conditions and is the better choice for wet holes or cold weather. See [Weather and Temperature Installation](/installation/bad-weather/) for temperature and moisture considerations.
 
 If the question is whether adhesive is required at all, see [Can Asphalt Anchors be used without adhesive?](/installation/faq-required-adhesive/).
 
@@ -89,7 +89,7 @@ Asphalt thickness, temperature, water, edge distance, and overall pavement condi
 Relevant planning pages:
 
 * [Asphalt Thickness](/installation/asphalt-thickness/)
-* [Bad Weather Installation](/installation/bad-weather/)
+* [Weather and Temperature Installation](/installation/bad-weather/)
 * [Edge Installation](/installation/edge/)
 * [Anchor Strength Testing](/testing/anchor-strength-testing/)
 

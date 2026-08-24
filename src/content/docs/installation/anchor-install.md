@@ -43,15 +43,15 @@ For planning labor and tool selection, see [How Long Does Asphalt Anchor Install
 ### EPX2 - Expanding Cement
 
 * **Packaging:** 2.5lb tubs, 12oz bags (6-pack) or 10 lb tubs
-* **Temperature:** Cannot be applied below 50°F
+* **Temperature:** Do not install below 40°F; use the [cold-weather procedure](/installation/bad-weather/#cold-temperatures) below 50°F
 * **Work time:** <10 minutes at 75°F
 * **Cure time:** 15 min initial, 1 hour full cure, wait 2 hours before loading
 * **Cost:** Most economical option
 
-### EPX3 - Epoxy Cartridge
+### EPX3 - Acrylic Resin Cartridge
 
 * **Packaging:** Cartridge for caulk gun (requires 40:1 high-thrust gun)
-* **Temperature:** Can apply as low as 14°F (cartridge must be 50°F+)
+* **Temperature:** Can be installed down to 14°F when the cartridge is [preheated and handled correctly](/installation/bad-weather/#cold-temperatures)
 * **Work time:** 4-6 minutes at 68-86°F
 * **Cure time:** 45 min to 24 hours depending on temperature
 * **Advantage:** Works in cold weather, no mixing required
@@ -126,17 +126,19 @@ If you remove an attached object for the season or between uses, install a short
 
 **Static loading (continuous pull on anchors):** Limit to 20% of rated pull capacity
 
-:::caution[Hot pavement can reduce anchor capacity]
-Heat affects the asphalt surrounding the anchor, not just adhesive installation and curing. In our Sonoma testing on PG64-16 pavement, measured pull capacity declined approximately 10–15% for each additional 10°F above an 80°F pavement temperature.
+These percentages are applied to the published rated pull capacity. Neither the published ratings nor these loading guidelines are adjusted for hot pavement.
 
-This result is specific to the tested pavement. Binder grade, mix design, pavement condition, and temperature through the anchor depth can materially change performance. Do not treat this relationship as a universal derating rule. For critical applications exposed to pavement temperatures above 80°F, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/).
+:::caution[Hot pavement can reduce anchor capacity]
+In our Sonoma testing on PG64-16 pavement, all anchor models tested at the 120°F pavement-temperature bucket retained approximately 58–62% of their average pull capacity in the 70°F reference bucket.
+
+This result is specific to the tested pavement and does not provide a universal temperature-adjusted rating. For critical hot-pavement applications, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the measured results and limitations.
 :::
 
 Asphalt flows under continuous stress but is resilient under short-duration forces. The adhesive creates a stress-free bond that holds for years, unlike expansion anchors which loosen in asphalt.
 
 ## Temperature Considerations
 
-Adhesive temperature limits control when an anchor can be installed and how quickly it cures. Pavement temperature during use affects the cured anchor's pull capacity. See [Bad Weather Installation](/installation/bad-weather/) for installation procedures and [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for in-service capacity guidance.
+Adhesive temperature limits control when an anchor can be installed and how quickly it cures. Pavement temperature during use affects the cured anchor's pull capacity. See [Weather and Temperature Installation](/installation/bad-weather/) for installation procedures and [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for in-service capacity guidance.
 
 ## Common Errors to Avoid
 

@@ -53,7 +53,7 @@ Once cured, both adhesives are weather resistant. However, temperature still mat
 
 Hot pavement can reduce the holding capacity of a cured anchor independently of adhesive weather resistance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for guidance.
 
-For detailed cold, wet, and hot weather handling, see [Bad Weather Installation](/installation/bad-weather/).
+For detailed cold, wet, and hot weather handling, see [Weather and Temperature Installation](/installation/bad-weather/).
 
 ## Which Should I Choose?
 
