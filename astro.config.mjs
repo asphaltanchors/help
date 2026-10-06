@@ -15,6 +15,9 @@ export default defineConfig({
         replacesTitle: true,
       },
       customCss: ["./src/styles/custom.css"],
+      components: {
+        SocialIcons: "./src/components/StoreLinks.astro",
+      },
       favicon: "/favicon.png",
       head: [
         {

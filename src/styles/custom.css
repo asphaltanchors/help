@@ -190,3 +190,19 @@ starlight-sidebar-top,
 .sl-markdown-content h2 {
 	color: var(--sl-color-text-accent);
 }
+
+/* Links back to the store (src/components/StoreLinks.astro). Dark text on the cream header, accent text in the dark mobile menu. */
+.aa-store-link {
+	font-weight: 600;
+	font-size: var(--sl-text-sm);
+	color: var(--sl-color-text-accent);
+	text-decoration: none;
+	white-space: nowrap;
+}
+.aa-store-link:hover {
+	text-decoration: underline;
+	text-underline-offset: 4px;
+}
+.header .aa-store-link {
+	color: var(--aa-black);
+}

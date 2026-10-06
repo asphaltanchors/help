@@ -1,0 +1,9 @@
+---
+// Replaces Starlight's social icons: links back to the store, shown in the header and the mobile menu.
+const links = [
+	{ label: 'Shop', href: 'https://asphaltanchors.com/collections/anchors' },
+	{ label: 'Contact', href: 'https://asphaltanchors.com/pages/contact' },
+];
+---
+
+{links.map(({ label, href }) => <a class="aa-store-link" {href}>{label}</a>)}
