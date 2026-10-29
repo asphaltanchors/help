@@ -97,14 +97,7 @@ Clean every hole with a hole cleaning brush [[BRH]] on a drill. Do not clean by 
 
 ### EPX2 Mixing
 
-Mix for 4 anchors at minimum (smaller batches are hard to measure):
-
-| Anchor | Water (4 anchors) | EPX2 Powder (4 anchors) |
-| --- | --- | --- |
-| SP10 | 0.4 cup (2.9 oz) | 1.6 cups (12.4 oz) |
-| SP12 | 0.5 cup (3.7 oz) | 2.0 cups (16.3 oz) |
-| SP18 | 0.6 cup (4.9 oz) | 2.6 cups (21.2 oz) |
-| SP58 | 1.4 cups (11 oz) | 6.0 cups (47.6 oz) |
+Mix enough for at least 4 anchors at a time; smaller batches are hard to measure. Use the [adhesive calculator](https://asphaltanchors.com/pages/adhesive-calculator) to work out how much you need.
 
 **Mixing technique:**
 
