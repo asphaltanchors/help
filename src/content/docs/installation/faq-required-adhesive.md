@@ -1,6 +1,8 @@
 ---
 title: Can Asphalt Anchors be used without adhesive?
 description: Why Asphalt Anchors must be installed with adhesive, and how the adhesive bonds the anchor to the asphalt.
+sidebar:
+  label: Is Adhesive Required?
 ---
 No.
 

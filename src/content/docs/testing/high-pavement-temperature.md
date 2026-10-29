@@ -1,6 +1,8 @@
 ---
 title: High Pavement Temperature and Anchor Capacity
 description: Measured effects of pavement temperature on Asphalt Anchor pull capacity and how to interpret the results.
+sidebar:
+  label: Hot Pavement
 ---
 
 Asphalt becomes less stiff as it heats, which can reduce the pull capacity of an installed anchor. Our testing shows a clear temperature effect, but the result depends on the asphalt mixture and site conditions.
@@ -42,12 +44,11 @@ Averages hide the weaker installations. The SP10's 900 lb pull guide load is set
 ## How to Interpret the Results
 
 * The percentages are relative to each anchor model's own average peak pull force at 70°F, not to its guide load.
-* Each anchor model is normalized separately before results are compared.
 * The 58–62% range describes measured average retention across the anchor models tested at 120°F. It is not the spread of individual test results or a guaranteed minimum.
 * The measurements do not establish a smooth correction curve between temperature buckets.
 * Do not extrapolate the result above 120°F; higher pavement temperatures have not yet been tested.
 
-For the test setup and measurements, see [Pull Test Methodology](/testing/pull-test-methodology/).
+For the test setup, see [Pull Test Methodology](/testing/pull-test-methodology/).
 
 ## Why Results Vary by Pavement
 
@@ -63,7 +64,3 @@ A pavement's binder grade is also not the same as a momentary surface-temperatur
 * **Above the tested range:** Do not extrapolate beyond the 120°F bucket.
 * **Unknown pavement:** Do not infer an exact binder grade or anchor capacity from location alone.
 * **Critical application:** Obtain available pavement mix information and perform on-site pull testing under representative temperature and loading conditions.
-
-## Installation Temperature Is a Separate Issue
-
-Hot-pavement capacity concerns a cured anchor while it is under load. Adhesive temperature limits determine whether the anchor can be installed and how quickly the adhesive cures. See [Weather and Temperature Installation](/installation/bad-weather/) for hot-, cold-, and wet-weather procedures.

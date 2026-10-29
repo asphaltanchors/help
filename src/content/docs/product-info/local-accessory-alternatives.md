@@ -1,6 +1,8 @@
 ---
 title: Find Installation Accessories Locally
 description: Specifications for locally sourcing compatible drill bits, anchoring cement, and hole-cleaning extensions for Asphalt Anchors.
+sidebar:
+  label: Local Accessories
 ---
 
 We offer installation accessories because they make the job easier, not because they need to come from us. If an accessory is unavailable from Asphalt Anchors, use this guide to find a compatible item locally or from the retailer of your choice.
@@ -13,7 +15,7 @@ Use a masonry bit with the correct shank for your rotary hammer. We generally re
 
 | Anchor | Required bit diameter | Shank | Required hole depth | Recommended bit length |
 | --- | --- | --- | --- | --- |
-| SP10 / AM625 | 7/8 in. | SDS-Plus | 6 in. | Long-format bit preferred |
+| SP10 | 7/8 in. | SDS-Plus | 6 in. | Long-format bit preferred |
 | SP12 | 7/8 in. | SDS-Plus | 12 in. | Long-format bit preferred |
 | SP18 | 1 in. | SDS-Plus | 12 in. | Long-format bit preferred |
 | SP58 | 1-1/2 in. | SDS-Max | 10 in. | About 18 in. usable / 22–23 in. overall |
@@ -34,7 +36,7 @@ Availability and pricing change. You do not need one of these exact products; an
 
 ### SDS-Plus drill bits
 
-SP10, AM625, SP12, and SP18 use SDS-Plus bits, but they do not all use the same diameter. Confirm the model and use the table above before purchasing. In particular, the 7/8 in. bit for SP10/AM625 and SP12 is not a substitute for the 1 in. bit required for SP18. For the SP18, 1 in. is the minimum; a 1-1/8 in. bit also works and leaves a little more clearance around the anchor.
+SP10, SP12, and SP18 use SDS-Plus bits, but they do not all use the same diameter. Confirm the model and use the table above before purchasing. In particular, the 7/8 in. bit for SP10 and SP12 is not a substitute for the 1 in. bit required for SP18. For the SP18, 1 in. is the minimum; a 1-1/8 in. bit also works and leaves a little more clearance around the anchor.
 
 ## EPX2 alternative: anchoring cement
 

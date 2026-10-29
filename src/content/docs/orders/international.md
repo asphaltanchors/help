@@ -4,7 +4,7 @@ description: Where we ship, and how to buy Asphalt Anchors in Canada, Australia,
 ---
 
 ## US Customers Only
-Our website processes orders for US delivery addresses only.
+Our website processes orders for US delivery addresses only. See our [shipping policy](https://asphaltanchors.com/policies/shipping-policy) for US shipping details.
 ## Canada & Australia
 
 We work with authorized distribution partners in these regions who can fulfill your order and provide local support. Visit our [Find Us](https://asphaltanchors.com/pages/store-locator) page for contact information.

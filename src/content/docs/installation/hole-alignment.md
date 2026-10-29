@@ -1,6 +1,8 @@
 ---
 title: Aligning Anchor Holes with a Template and Punch
 description: Use a hole-spacing template and a center punch or chisel so the drill bit starts exactly where you marked it and multi-anchor patterns line up.
+sidebar:
+  label: Hole Alignment
 ---
 
 When you install more than one anchor for the same object, the holes must match the mounting holes in that object. Small errors add up quickly: a hole that is off by 1/4" may still work for two anchors, but with four anchors it can be nearly impossible to get every bolt to line up.

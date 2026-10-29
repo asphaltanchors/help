@@ -75,22 +75,53 @@ export default defineConfig({
       //     href: "https://github.com/withastro/starlight",
       //   },
       // ],
+      // Groups are listed explicitly so pages can be ordered by workflow
+      // without moving files and changing their URLs.
       sidebar: [
         {
           label: "Installation",
-          items: [{ autogenerate: { directory: "installation" } }],
+          items: [
+            "installation/anchor-install",
+            "installation/hole-alignment",
+            "installation/hole-cleaning",
+            "installation/bad-weather",
+            "installation/edge",
+            "installation/asphalt-thickness",
+            "installation/protecting-anchor-threads",
+          ],
         },
         {
-          label: "Product Info",
-          items: [{ autogenerate: { directory: "product-info" } }],
+          label: "Planning & Tools",
+          items: [
+            "installation/installation-time",
+            "installation/hammer-drill-size-installation-time",
+            "product-info/local-accessory-alternatives",
+          ],
+        },
+        {
+          label: "Applications",
+          items: ["installation/speed-bumps"],
+        },
+        {
+          label: "Products",
+          items: [
+            "product-info/adhesive-options",
+            "installation/faq-required-adhesive",
+            "product-info/shelf-life",
+            "product-info/zinc-vs-stainless",
+          ],
+        },
+        {
+          label: "Strength & Testing",
+          items: [
+            "testing/anchor-strength-testing",
+            "testing/high-pavement-temperature",
+            "testing/pull-test-methodology",
+          ],
         },
         {
           label: "Orders",
           items: [{ autogenerate: { directory: "orders" } }],
-        },
-        {
-          label: "Testing",
-          items: [{ autogenerate: { directory: "testing" } }],
         },
       ],
     }),

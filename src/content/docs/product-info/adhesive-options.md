@@ -1,6 +1,8 @@
 ---
 title: EPX2 vs EPX3 Adhesive
 description: How to choose between EPX2 and EPX3 adhesive for Asphalt Anchor installation.
+sidebar:
+  label: EPX2 vs EPX3 Adhesive
 ---
 
 The same guide loads apply to anchors installed with [[EPX2]] or [[EPX3]] according to their instructions. Actual pull resistance also depends on the pavement, installation, and loading conditions. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
@@ -46,12 +48,10 @@ The main downside is cost. EPX3 is much more expensive than EPX2.
 
 ## Weather and Temperature
 
-Once cured, both adhesives are weather resistant. However, temperature still matters in two different ways: installation temperature affects adhesive handling and curing, while pavement temperature during use affects anchor pull capacity.
+Once cured, both adhesives are weather resistant.
 
 * EPX2 must be installed dry and cannot be installed below 40°F.
-* EPX3 can be used in wet and standing water conditions and can be installed down to 14°F when handled correctly.
-
-Hot pavement can reduce the holding capacity of a cured anchor independently of adhesive weather resistance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for guidance.
+* EPX3 can be used in wet and standing water conditions and can be installed down to 14°F when the cartridge is warmed first.
 
 For detailed cold, wet, and hot weather handling, see [Weather and Temperature Installation](/installation/bad-weather/).
 

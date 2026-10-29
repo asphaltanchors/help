@@ -34,7 +34,7 @@ Choose a short, headless set screw with an internal hex drive. It should be long
 Never leave the set screw protruding above the anchor. A raised screw can create a trip hazard and may interfere with vehicles, snow removal, or other equipment.
 :::
 
-For zinc plated or steel anchors, use Permatex #80078 anti-seize. For stainless steel anchors, use Permatex #77124 anti-seize. Anti-seize is particularly important with stainless steel because dry stainless threads can gall and seize.
+Use the anti-seize that matches the anchor material. See [Bolts, washers, and anti-seize](/product-info/zinc-vs-stainless/#bolts-washers-and-anti-seize) for part numbers.
 
 ## Return the anchor to service
 

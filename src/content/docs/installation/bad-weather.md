@@ -1,8 +1,10 @@
 ---
 title: Weather and Temperature Installation
 description: How to install Asphalt Anchors in hot, cold, wet, or rainy conditions.
+sidebar:
+  label: Weather and Temperature
 ---
-Asphalt Anchors can be installed in rain, heat, and cold within the limits of the selected adhesive. Installation temperature affects adhesive handling and curing; pavement temperature while the cured anchor is under load affects its pull capacity.
+Asphalt Anchors can be installed in rain, heat, and cold within the limits of the selected adhesive. This page covers installation. For how hot pavement affects an anchor that is already in service, see [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/).
 
 ## Rain and Wet Conditions
 
@@ -20,14 +22,8 @@ Asphalt Anchors can be installed in rain, heat, and cold within the limits of th
 * Keep it warm between holes, and dispense it promptly.
 * If the adhesive itself drops below freezing before it starts curing, it will not cure.
 
-Once the adhesive is in the hole and curing has started, the reaction generates its own heat and can keep going on cold pavement. Cure time is still much longer below 50°F, up to 24 hours in cold weather.
+Once the adhesive is in the hole and curing has started, the reaction generates its own heat and can keep going on cold pavement. Cure time is longer in the cold: about 1 hour, compared with about 10 minutes in hot weather.
 
 ## Hot Temperatures
 
 Warm weather significantly speeds up the curing of all our adhesives. To preserve sufficient working time, keep the adhesive shaded and cool. For EPX2, place the mixing container in ice water. Keep EPX3 cartridges in a cooler or refrigerator until use.
-
-:::caution[Hot pavement can reduce anchor capacity]
-Heat affects the asphalt surrounding a cured anchor, independently of adhesive handling during installation. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for our measured peak-force results and their limits.
-
-Correct installation and curing do not remove this temperature effect. For critical hot-pavement applications, [contact us](https://asphaltanchors.com/pages/contact) to discuss the expected conditions and appropriate site-specific testing.
-:::

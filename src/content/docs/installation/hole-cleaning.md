@@ -1,6 +1,8 @@
 ---
 title: Clean the Hole Before Installing Asphalt Anchors
 description: Why hole cleaning matters and how to brush and blow out an asphalt anchor hole before adhesive installation.
+sidebar:
+  label: Hole Cleaning
 ---
 
 Hole cleaning is one of the most important steps in an Asphalt Anchor installation. Dust, loose asphalt, and drilling debris prevent the adhesive from bonding fully to the wall of the hole. Skipping or rushing this step can reduce pull strength by more than 25%.

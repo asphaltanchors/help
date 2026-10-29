@@ -11,4 +11,4 @@ Thicker asphalt gives an anchor more material to hold onto, and field experience
 
 Our [guide loads](/testing/anchor-strength-testing/#what-the-numbers-mean) assume 3" asphalt. Thicker asphalt does not establish a higher site-specific allowable load or a fixed safety margin. Pavement condition, temperature, installation, and load duration still matter. [Contact us](https://asphaltanchors.com/pages/contact) before relying on a thickness increase to meet a required application load.
 
-Asphalt thinner than 2" has not been tested and, if the application is in such asphalt, we discourage the use of our anchors.
+We discourage using our anchors in asphalt thinner than 3".

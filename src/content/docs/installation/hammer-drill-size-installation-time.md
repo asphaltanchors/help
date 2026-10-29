@@ -1,6 +1,8 @@
 ---
 title: Hammer Drill Size and Installation Time
 description: How rotary hammer size and power affect asphalt anchor drilling speed and total installation time.
+sidebar:
+  label: Drill Size
 ---
 
 Drill size has a measurable impact on asphalt anchor installation time. In our comparison, a Bosch RH745 drilled the same 1.5" hole in 1:45 that took a BAUER 11 Amp SDS-Max rotary hammer 2:30.
