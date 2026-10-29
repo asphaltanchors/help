@@ -14,7 +14,7 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 | [[SP18]] | Heavy | 2,000 lbs | 1,500 lbs | 12" | 1" | 280 lb-in | 150 mL |
 | [[SP58]] | Extra heavy | 2,000 lbs | 1,500 lbs | 10" | 1.5" | 720 lb-in | 290 mL |
 
-Guide loads are for short-duration forces (under about 30 seconds) on anchors installed per these instructions in 3" asphalt. They are guidance based on our testing, not certified ratings or site-specific allowable loads. The SP12, SP18, and SP58 share the same guide loads because the asphalt sets the limit in 3" pavement; larger anchors hold up better to impacts, repeated loads, and sideways forces. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
+Guide loads are for short-duration forces (about a minute or less) on anchors installed per these instructions in 3" asphalt. They are guidance based on our testing, not certified ratings or site-specific allowable loads. The SP12, SP18, and SP58 share the same guide loads because the asphalt sets the limit in 3" pavement; larger anchors hold up better to impacts, repeated loads, and sideways forces. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
 
 **Spacing requirements:** Leave at least about 4" of solid asphalt between the edges of neighboring holes. That is roughly 5" center to center for 7/8" and 1" holes, and 5-1/2" for the SP58's 1-1/2" hole. Results vary with pavement condition. Closely spaced anchors pull on the same surrounding asphalt, so a tight group may resist less combined pull than the same anchors spread farther apart. [Contact us](https://asphaltanchors.com/pages/contact) about heavily loaded groups. To get closely spaced holes to line up, see [Aligning Anchor Holes](/installation/hole-alignment/).
 
@@ -129,10 +129,10 @@ If you remove an attached object for the season or between uses, install a short
 
 How long a force acts matters as much as how large it is. Asphalt resists a brief pull far better than a steady one, because it slowly flows under constant stress.
 
-* **Short-duration load (under about 30 seconds):** Use no more than the pull guide load. This matches our pull tests, where the load is applied over seconds.
+* **Short-duration load (about a minute or less):** Use no more than the pull guide load. This matches our pull tests, where the load builds over about a minute.
 * **Continuous load (hours to months):** Limit to 20% of the pull guide load, or 180 lbs for the SP10 and 400 lbs for the SP12, SP18, and SP58. Examples include a strap or guy line under constant tension, or a structure that leans on its anchors.
 
-The continuous-load limit is a guideline from our experience, not a tested or guaranteed value. A weather-related load such as sustained wind is not necessarily brief; treat any force that lasts longer than about 30 seconds as continuous.
+The continuous-load limit is a guideline from our experience, not a tested or guaranteed value. A weather-related load such as sustained wind is not necessarily brief; treat any force that lasts longer than about a minute as continuous.
 
 Apply these limits to the guide load, not to a measured peak force. The pull guide load is set low enough to stay below our lowest results on 120°F pavement; nothing above 120°F has been tested. For critical applications or continuous tension, [contact us](https://asphaltanchors.com/pages/contact) to discuss the loading conditions and appropriate evaluation.
 
