@@ -34,7 +34,7 @@ Availability and pricing change. You do not need one of these exact products; an
 
 ### SDS-Plus drill bits
 
-SP10, AM625, SP12, and SP18 use SDS-Plus bits, but they do not all use the same diameter. Confirm the model and use the table above before purchasing. In particular, the 7/8 in. bit for SP10/AM625 and SP12 is not a substitute for the 1 in. bit required for SP18.
+SP10, AM625, SP12, and SP18 use SDS-Plus bits, but they do not all use the same diameter. Confirm the model and use the table above before purchasing. In particular, the 7/8 in. bit for SP10/AM625 and SP12 is not a substitute for the 1 in. bit required for SP18. For the SP18, 1 in. is the minimum; a 1-1/8 in. bit also works and leaves a little more clearance around the anchor.
 
 ## EPX2 alternative: anchoring cement
 

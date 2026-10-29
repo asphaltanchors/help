@@ -7,7 +7,7 @@ When you install more than one anchor for the same object, the holes must match 
 
 Most alignment errors happen in the first 1/2" of drilling. A masonry bit tends to skip and wander on the asphalt surface before it bites, so a hole that starts on your mark can still end up off target. The fix is to make a starting dimple for the bit before you drill.
 
-This method works even for tight patterns. We have installed SP58 anchors about 5" apart and had every bolt line up. See the [spacing requirements](/installation/anchor-install/#anchor-specifications) for how close anchors can go.
+This method works even for tight patterns. We have installed SP58 anchors 5" apart, the minimum spacing, and had every bolt line up. See the [spacing requirements](/installation/anchor-install/#anchor-specifications) for how close anchors can go.
 
 ## What you need
 

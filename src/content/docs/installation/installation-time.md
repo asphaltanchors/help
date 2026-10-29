@@ -27,7 +27,7 @@ Small jobs often feel slower per anchor because setup, material staging, adhesiv
 
 Drilling is usually the most visible time difference between crews and tools. Asphalt anchors require oversize holes, and larger anchors require deeper or wider drilling than smaller anchors.
 
-Use an SDS+ or SDS MAX rotary hammer setup as described in the [required supplies section](/installation/anchor-install/#required-supplies). Standard drill chucks are not appropriate for this work.
+Use an SDS-Plus or SDS-Max rotary hammer setup as described in the [required supplies section](/installation/anchor-install/#required-supplies). Standard drill chucks are not appropriate for this work.
 
 For a focused discussion of drill size and power, see [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/).
 
@@ -43,11 +43,11 @@ Important bit variables include:
 * Adequate length for the required drill depth
 * Sharp cutting edges
 * Flutes that clear material efficiently
-* Compatibility with the drill shank, such as SDS+ or SDS MAX
+* Compatibility with the drill shank, such as SDS-Plus or SDS-Max
 
 Clean the bit flutes regularly. Packed flutes increase friction, slow the hole, and can cause jamming.
 
-<!-- TODO: Future article: "Choosing the Right Drill Bit for Asphalt Anchors." Include SDS+ vs SDS MAX, bit wear, flute clearing, and diameter/depth tables from the install guide. -->
+<!-- TODO: Future article: "Choosing the Right Drill Bit for Asphalt Anchors." Include SDS-Plus vs SDS-Max, bit wear, flute clearing, and diameter/depth tables from the install guide. -->
 
 ## Hole Cleaning Time
 

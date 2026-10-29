@@ -1,6 +1,6 @@
 ---
 title: Bulk Ordering
-description: How to order in large quantities
+description: How to order Asphalt Anchors in large quantities, with lead times, freight, and volume pricing.
 ---
 
 We welcome bulk orders of any size and regularly fulfill orders for 10,000+ asphalt anchors.

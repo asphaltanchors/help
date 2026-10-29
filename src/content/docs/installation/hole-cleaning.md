@@ -29,7 +29,7 @@ Then install the adhesive and anchor using the [standard installation guide](/in
 
 ## Use the Right Brush
 
-Use a hole cleaning brush that reaches all the way to the bottom of the drilled hole. We sell a [hole cleaning brush](https://asphaltanchors.com/products/hole-cleaning-brush?_pos=1&_psq=brush&_ss=e&_v=1.0), but any brush is acceptable if it fits the hole and reaches full depth.
+Use a hole cleaning brush that reaches all the way to the bottom of the drilled hole. Use a wire hole cleaning brush on a drill. Do not clean the hole by hand. We sell a hole cleaning brush, [[BRH]], but any wire brush is acceptable if it fits the hole and reaches full depth.
 
 For best results, the brush should be about 1 mm larger than the hole diameter. This helps the bristles press lightly against the sides of the hole instead of passing through the center without cleaning the wall.
 

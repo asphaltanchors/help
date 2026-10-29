@@ -23,11 +23,11 @@ The tradeoff is handling. EPX2 requires mixing, can make a mess, and the mix can
 Use EPX2 when:
 
 * The holes and pavement are dry
-* The ambient temperature is 40F or above
+* The ambient temperature is 40°F or above
 * Material cost is a major concern
 * You have enough people to mix, pour, and install without rushing
 
-Do not use EPX2 in damp holes, standing water, active rain, or below 40F. If you cannot fully dry the hole, use EPX3 instead.
+Do not use EPX2 in damp holes, standing water, active rain, or below 40°F. If you cannot fully dry the hole, use EPX3 instead.
 
 ## EPX3
 
@@ -48,8 +48,8 @@ The main downside is cost. EPX3 is much more expensive than EPX2.
 
 Once cured, both adhesives are weather resistant. However, temperature still matters in two different ways: installation temperature affects adhesive handling and curing, while pavement temperature during use affects anchor pull capacity.
 
-* EPX2 must be installed dry and cannot be installed below 40F.
-* EPX3 can be used in wet and standing water conditions and can be installed down to 14F when handled correctly.
+* EPX2 must be installed dry and cannot be installed below 40°F.
+* EPX3 can be used in wet and standing water conditions and can be installed down to 14°F when handled correctly.
 
 Hot pavement can reduce the holding capacity of a cured anchor independently of adhesive weather resistance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for guidance.
 

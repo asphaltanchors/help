@@ -3,7 +3,7 @@ title: Hammer Drill Size and Installation Time
 description: How rotary hammer size and power affect asphalt anchor drilling speed and total installation time.
 ---
 
-Drill size has a measurable impact on asphalt anchor installation time. In our comparison, a Bosch RH745 drilled the same 1.5" hole in 1:45 that took a BAUER 11 Amp SDS-MAX rotary hammer 2:30.
+Drill size has a measurable impact on asphalt anchor installation time. In our comparison, a Bosch RH745 drilled the same 1.5" hole in 1:45 that took a BAUER 11 Amp SDS-Max rotary hammer 2:30.
 
 That is a 45-second savings per large hole, or about a 30% reduction in drilling time. The difference matters most when the job has many anchors, larger-diameter holes, or deeper drilling. For a single small installation, the tool upgrade may not justify itself. For contractor or repeat work, faster drilling can reduce labor cost and make the job more predictable.
 
@@ -49,17 +49,17 @@ The same drill bit was used for both tools. In this test, the Bosch reduced dril
 
 ## Smaller Hole Timing
 
-For smaller holes, drilling time is roughly proportional to the area of the hole, assuming the same asphalt, bit condition, and drill class.
+Smaller holes drill much faster. There is no simple formula for scaling the times, because hole diameter, depth, aggregate, and the drill all interact. In general, larger and deeper holes take disproportionately longer.
 
 In testing with the Bosch RH745:
 
 | Hole diameter | Product | Time per hole |
 | --- | --- | ---: |
 | 7/8" | [[SP10]] | 0:15 |
-| 1-1/8" | [[SP18]] | 0:30 |
+| 1-1/8" | [[SP18]] (optional larger bit) | 0:30 |
 | 1.5" | [[SP58]] | 1:45 |
 
-<!-- TODO: Confirm whether the SP18 production recommendation should be 1" or 1-1/8". The main installation guide currently lists SP18 at 1". -->
+The SP18 was timed with a 1-1/8" bit. The minimum, and the bit we sell, is 1"; see the [anchor specifications](/installation/anchor-install/#anchor-specifications).
 
 These times are useful for planning, but they are not universal. Asphalt strength, aggregate size, aggregate type, pavement age, moisture, temperature, and the base under the asphalt can all change drilling speed.
 
@@ -99,13 +99,13 @@ Confirm:
 
 * The bit diameter matches the anchor model
 * The bit is long enough for the required depth
-* The bit shank matches the drill, such as SDS+ or SDS MAX
+* The bit shank matches the drill, such as SDS-Plus or SDS-Max
 * The bit cuts cleanly and clears material through the flutes
 * The operator clears the flutes before they pack with debris
 
 See the [anchor specifications table](/installation/anchor-install/#anchor-specifications) for required drill diameter and depth by anchor model.
 
-<!-- TODO: Future article: "SDS+ vs SDS MAX for Asphalt Anchors." Include where each shank type is appropriate and when to step up to SDS MAX. -->
+<!-- TODO: Future article: "SDS-Plus vs SDS-Max for Asphalt Anchors." Include where each shank type is appropriate and when to step up to SDS-Max. -->
 
 ## Impact on Total Installation Time
 

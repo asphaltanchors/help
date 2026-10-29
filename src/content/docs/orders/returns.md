@@ -1,6 +1,6 @@
 ---
 title: Return Policy
-description: Asphalt Anchors return policy
+description: How to return Asphalt Anchors products, including RMA numbers, restocking fees, and shipping damage.
 ---
 
 Returns are accepted within 60 days of shipment for non-defective items, subject to:
@@ -14,7 +14,7 @@ Defective items carry no restocking fee. Custom products can't be returned.
 
 Every return needs a Return Material Authorization (RMA) number before you ship it. To get one, either:
 
-* Email support@asphaltanchors.com with your order number and what you'd like to return, or
+* Email [support@asphaltanchors.com](mailto:support@asphaltanchors.com) with your order number and what you'd like to return, or
 * Start a return from [your account](https://accounts.asphaltanchors.com).
 
 ## Return Requirements
@@ -22,7 +22,7 @@ Every return needs a Return Material Authorization (RMA) number before you ship 
 * Items must be unused and in original packaging
 * Customer pays return shipping
 * Include your order number and RMA number with the return
-* Email the tracking number to support@asphaltanchors.com
+* Email the tracking number to [support@asphaltanchors.com](mailto:support@asphaltanchors.com)
 
 ## Shortages and Shipping Damage
 
