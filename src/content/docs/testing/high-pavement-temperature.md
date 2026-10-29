@@ -20,11 +20,13 @@ The results below describe our PG64-16 test pavement. They are not a universal d
 
 ## What We Measured
 
-Our temperature measurements are grouped into 10°F buckets. For each anchor model, we use its average pull capacity in the bucket labeled 70°F as the 100% reference, then normalize results in the higher-temperature buckets to that reference.
+On this page, **measured pull capacity** means the peak pull force recorded during a short-duration vertical pull test. It is a test result, separate from the [guide load](/testing/anchor-strength-testing/#what-the-numbers-mean).
 
-The 120°F bucket is the highest pavement temperature tested so far. Each anchor model's average pull capacity in that bucket fell between 58% and 62% of its corresponding 70°F reference average.
+Our temperature measurements are grouped into 10°F buckets. For each anchor model, we use its average peak pull force in the bucket labeled 70°F as the 100% reference, then normalize results in the higher-temperature buckets to that reference.
 
-| Pavement-temperature bucket | Normalized pull capacity | Status |
+The 120°F bucket is the highest pavement temperature tested so far. Each anchor model's average peak pull force in that bucket fell between 58% and 62% of its corresponding 70°F reference average.
+
+| Pavement-temperature bucket | Average peak pull force relative to reference | Status |
 | --- | ---: | --- |
 | 70°F | 100% | Reference average for each anchor model |
 | 120°F | 58–62% | Measured range across tested anchor models |
@@ -33,19 +35,19 @@ Bucket labels represent grouped temperature measurements; they do not mean that 
 
 ## SP10 Example
 
-The [[SP10]] averaged 2,351 lb in the 70°F reference bucket, compared with its published rated pull capacity of 1,500 lb. Applying the measured cross-model retention range of 58–62% for illustration corresponds to approximately 1,364–1,458 lb.
+The [[SP10]] had an average peak pull force of 2,351 lb in the 70°F reference bucket. Applying the measured cross-model retention range of 58–62% for illustration corresponds to approximately 1,364–1,458 lb. This is an illustration using the cross-model range, not a separately reported range of SP10 test results.
 
-This example shows why the normalized percentage must not be treated as a universal design factor. The illustrative 120°F range is below the SP10's published rating, and an individual installation may perform differently.
+Averages hide the weaker installations. The SP10's 900 lb pull guide load is set from the low end of our results, not the average, so that it stays below the low end of our 120°F results. An individual installation may still perform differently, so do not treat the normalized percentage as a universal design factor.
 
 ## How to Interpret the Results
 
-* The percentages are relative to each anchor model's own 70°F average, not to its published rating.
+* The percentages are relative to each anchor model's own average peak pull force at 70°F, not to its guide load.
 * Each anchor model is normalized separately before results are compared.
-* The 58–62% range describes measured average retention across the anchor models tested at 120°F.
+* The 58–62% range describes measured average retention across the anchor models tested at 120°F. It is not the spread of individual test results or a guaranteed minimum.
 * The measurements do not establish a smooth correction curve between temperature buckets.
 * Do not extrapolate the result above 120°F; higher pavement temperatures have not yet been tested.
 
-For the test setup and rating criteria, see [Pull Test Methodology](/testing/pull-test-methodology/).
+For the test setup and measurements, see [Pull Test Methodology](/testing/pull-test-methodology/).
 
 ## Why Results Vary by Pavement
 

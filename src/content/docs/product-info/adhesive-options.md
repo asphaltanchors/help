@@ -3,9 +3,9 @@ title: EPX2 vs EPX3 Adhesive
 description: How to choose between EPX2 and EPX3 adhesive for Asphalt Anchor installation.
 ---
 
-[[EPX2]] and [[EPX3]] provide the same final installed anchor strength when they are installed correctly. Once cured, both are weather resistant.
+The same guide loads apply to anchors installed with [[EPX2]] or [[EPX3]] according to their instructions. Actual pull resistance also depends on the pavement, installation, and loading conditions. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
 
-The difference is installation. Choose based on job size, weather, temperature, speed, and cost.
+Choose the adhesive based on job size, installation weather and temperature, speed, and cost. Once cured, both are weather resistant.
 
 ## Quick Comparison
 

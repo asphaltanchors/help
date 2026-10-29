@@ -1,100 +1,59 @@
 ---
-title: Anchor Strength Testing and Certification
-description: Why asphalt anchors do not have ICC certification, how we test to failure, and what conditions affect real-world holding strength.
+title: Understanding Anchor Strength and Guide Loads
+description: What our guide loads and measured test results mean, how anchor size affects durability, what affects installed strength, and our ICC-ES status.
 ---
 
-import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
+BoltHold anchors use adhesive bonding to secure attachments to asphalt. Holding strength depends on the installed system: the anchor, adhesive, pavement, installation, and loading conditions.
 
-## Why There's No ICC Certification for Asphalt Anchors
+Our pull tests measure how installed anchors respond to a short-duration vertical pull. Choosing an anchor for a particular application also requires considering pavement temperature, load duration, repeated impacts, and acceptable movement.
 
-Customers and engineers sometimes ask whether our anchors carry ICC-ES certification. It's a fair question — ICC-ES evaluation reports are the gold standard for concrete anchoring products, and for good reason. They provide standardized, third-party validation that an anchor meets the requirements of the International Building Code.
+## What the Numbers Mean
 
-However, ICC-ES acceptance criteria for anchors — specifically AC193 for mechanical anchors and AC308 for adhesive anchors — were developed exclusively for concrete substrates. These criteria reference ACI 355.2 testing standards and assume a rigid, predictable base material with well-characterized compressive strength. Asphalt pavement is a fundamentally different substrate: it's viscoelastic, temperature-sensitive, and varies in composition from site to site. There is no ICC-ES acceptance criteria, ASTM standard, or ACI test method that covers anchoring into asphalt.
+| Term | Meaning |
+| --- | --- |
+| **Guide load** | The load we suggest designing to for a short-duration force (under about 30 seconds) on an anchor installed per our instructions in 3" asphalt. For a continuous load, such as a strap under tension for months, use 20% of the guide load; see [Loading Guidelines](/installation/anchor-install/#loading-guidelines). It is guidance based on our testing, not a certified rating or a site-specific allowable load. |
+| **Measured peak pull force** | The highest force recorded during an individual pull test. An average describes the tests included in that group, not a guaranteed minimum for another installation. |
+| **Application load** | The force the installed anchor must resist in use. Its direction, duration, repetition, and the movement the attachment can tolerate all matter. |
 
-This isn't a gap in our testing — it's a gap in the standards. No asphalt anchor, from any manufacturer, can carry ICC-ES certification because the testing framework doesn't exist for this substrate.
+| Model | Duty | Bolt | Pull guide load | Side guide load |
+| --- | --- | --- | --- | --- |
+| [[SP10]]/[[AM625]] | Light | 3/8" | 900 lb | 750 lb |
+| [[SP12]] | Medium | 3/8" | 2,000 lb | 1,500 lb |
+| [[SP18]] | Heavy | 7/16" | 2,000 lb | 1,500 lb |
+| [[SP58]] | Extra heavy | 5/8" | 2,000 lb | 1,500 lb |
 
-## What We Do Instead
+**How we set the guide loads:** The pull guide load is about half the low end of our pull results on pavement below 90°F. That keeps it below the low end of our results on 120°F pavement, where pull resistance drops by about 40%. The side guide load is the force at which an anchor starts to shift sideways in our tests, not the force at which it fails.
 
-In the absence of an industry standard, we've built a rigorous internal testing program to characterize the performance of every anchor in our line. We test anchors to failure — not just to their rated load — so we can understand exactly how much safety margin exists and how failure actually occurs when it does.
+**Why the SP12, SP18, and SP58 share the same numbers:** In 3" asphalt, these three anchors resist about the same pull because the asphalt, not the anchor, sets the limit. A larger anchor does not add pull strength there. Its larger bolt and body hold up better to repeated impacts, metal fatigue, and sideways forces that can bend or break a smaller bolt. The duty labels reflect that durability. Choose a heavier-duty anchor for impacts, vehicle traffic, and repeated loads.
 
-Our rated load specifications (also called working load or allowable load) are set conservatively. For the SP10, SP12, and SP18, properly installed anchors consistently fail at more than twice their rated load. This 2:1 ratio between ultimate strength and working load represents a safety factor that meets or exceeds standard practice in structural engineering for static load applications.
+See the [pull test methodology](/testing/pull-test-methodology/) for how we measure performance and the [temperature results](/testing/high-pavement-temperature/) for how measured peak force changes with pavement temperature.
 
-| Anchor     | Rated Pull Strength | Observed Ultimate Strength | Safety Factor |
-|------------|-------------------|---------------------------|---------------|
-| [[SP10]]   | 1,500 lbs         | >3,000 lbs                | >2.0×         |
-| [[SP12]]   | 2,000 lbs         | >4,000 lbs                | >2.0×         |
-| [[SP18]]   | 2,500 lbs         | >5,000 lbs                | >2.0×         |
+## What Our Pull Tests Show
 
-These results are achieved under proper installation conditions, discussed in detail below.
+In most testing, peak pull force occurs with less than 1/4 inch of movement. Once the asphalt starts to move, we generally observe decreasing force. An anchor may continue to resist pull as it moves, but that remaining resistance should not be counted as additional usable capacity or dependable warning before failure.
 
-## How We Test
+Movement can make an attachment unsuitable for service even while the anchor still resists load. The movement thresholds used to describe our tests are not allowable movement limits for every application.
 
-We use hydraulic pull testing equipment that applies a continuous, increasing tensile load to an installed anchor until failure. The equipment records the applied force throughout the entire test, producing a complete load curve. This gives us far more information than a simple pass/fail proof load test — we can see exactly how the anchor behaves at every stage of loading, and precisely how it fails.
+Slow pull and side-load tests do not represent repeated impacts. For the measured displacement points, equipment, procedure, and test videos, see [Pull Test Methodology](/testing/pull-test-methodology/).
 
-For full test setup, instrumentation, and rating criteria, see our [pull test methodology](/testing/pull-test-methodology/).
+## What Affects Installed Strength
 
-All test anchors are installed following our [standard installation procedures](/installation/anchor-install/) in representative asphalt surfaces under controlled conditions.
+* **Pavement:** Thickness, condition, asphalt mixture, and the supporting base affect the installation. Our reference testing uses 3-inch PG64-16 asphalt. See [Asphalt Thickness](/installation/asphalt-thickness/).
+* **Temperature during use:** Hot pavement can reduce pull resistance after the adhesive has cured. Our [temperature results](/testing/high-pavement-temperature/) show the measured effect and its limits.
+* **Loading:** A brief vertical pull test does not establish performance under sustained tension, repeated loading, or sideways forces. The load on each anchor and the movement the attachment can tolerate matter.
+* **Installation:** Correct hole preparation, adhesive selection, and curing are essential. Follow the [installation guide](/installation/anchor-install/) and [hole-cleaning procedure](/installation/hole-cleaning/).
+* **Moisture during installation:** EPX2 requires dry conditions. EPX3 permits wet installation when used according to its instructions. See [Weather and Temperature Installation](/installation/bad-weather/).
 
-## Failure Mode Analysis
+Correct installation is essential, and pavement and operating conditions still determine how much the installed anchor can resist.
 
-When an anchor is loaded to destruction, it fails in one of two ways. Understanding these failure modes is important because they tell very different stories about what happens at the point of failure.
+## Choosing for Your Application
 
-### Material Failure (Anchor Component Failure)
+Review the installation requirements for the anchor model. Consider the actual force on each anchor, how long it acts, whether it repeats or comes from impacts, the hottest expected pavement conditions, and whether movement would affect the attachment.
 
-In a material failure, the anchor is loaded until a metal component physically breaks — the steel yields and fractures. This occurs when the bond between the anchor and the asphalt is stronger than the anchor hardware itself.
+For critical applications, sustained tension, or uncertain pavement conditions, [contact us](https://asphaltanchors.com/pages/contact) with the attachment details, pavement thickness and condition, expected loads, and operating temperatures. Site-specific testing can help evaluate the installation under the conditions tested; a brief pull test alone does not establish long-term performance.
 
-Material failure is sudden and catastrophic. The load increases steadily until the component breaks, at which point load capacity drops to zero almost instantly.
+## ICC-ES Certification
 
-{/* VIDEO: SP18 material failure with load-displacement overlay */}
+Our anchors do not have an ICC-ES evaluation report. ICC-ES acceptance criteria for anchors, AC193 for mechanical anchors and AC308 for adhesive anchors, are written for anchors installed in concrete. We are not aware of an ICC-ES acceptance criterion or ASTM test standard for anchoring into asphalt.
 
-The load-displacement curve for a material failure shows a steady climb followed by a sharp drop. The anchor does not move appreciably before failure — it holds firm, then breaks.
-
-Our SP anchors rarely fail this way. They are designed to withstand significant loads without breaking. For particularly strong installations - e.g. in thicker asphalt, embedded into rock, or ideal conditions - We do see these types of failures at 2.5 or 3x the rated loads.
-
-### Adhesive Failure (Bond Failure)
-
-In an adhesive failure, the bond between the anchor and the surrounding asphalt gives way before any metal component breaks. The anchor begins to pull out of the pavement.
-
-What's notable about adhesive failure is that it is **gradual, not sudden**. Even after the anchor begins to move and the peak load has been reached, the anchor continues to provide significant resistance — typically maintaining greater than 90% of its rated load as it displaces. This is a critical safety characteristic: in a real-world overload scenario, an adhesive failure provides warning through visible movement and continues to resist load rather than releasing all at once.
-
-<YouTubeEmbed id="voYgxWpnQcw" title="SP10 Adhesive Failure Pull Test" />
-<YouTubeEmbed id="3ZyxwX_Vdh0" title="SP12 Adhesive Failure Pull Test" />
-<YouTubeEmbed id="gFGQq-5cySc" title="SP18 Adhesive Failure Pull Test" />
-
-The load-displacement curve for an adhesive failure shows a steady climb to a peak well above the rated load, followed by a gradual decline with a long tail of continued resistance. The anchor keeps working even after the bond has begun to fail.
-
-## Installation Variables That Affect Strength
-
-Our testing has identified several installation conditions that directly impact anchor performance. When our guidelines are followed, anchors consistently achieve the >2× safety factor described above. When they are not, strength can be reduced — in some cases down to the rated load itself, meaning the designed safety margin is consumed.
-
-### Surface Temperature During Use
-
-Hot pavement reduces the support that the asphalt provides around the cured adhesive and anchor. In our Sonoma PG64-16 test pavement, all anchor models tested in the 120°F temperature bucket retained approximately 58–62% of their average pull capacity in the 70°F reference bucket. The 120°F bucket is the highest tested so far.
-
-This is an operating-temperature effect, separate from the adhesive temperature limits during installation. The result is not a universal derating factor: binder grade, mix characteristics, pavement condition, and temperature through the anchor depth can change performance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the measured result and its limitations.
-
-### Wet Conditions
-
-Installing anchors in wet conditions — from rain, standing water, or damp holes — reduces bond strength. The hole and surrounding asphalt must be dry at the time of adhesive application. With [[EPX3]] or [[EPX5]] you can install in wet conditions and achieve our rated strength. However if ultimate strength is your goal we recomend drying the hole, and in the case of standing water waiting.
-
-### Hole Preparation
-
-After drilling, the hole must be cleaned with a wire brush to remove loose material from the walls, then blown clean with compressed air to remove dust and debris. Skipping or rushing this step leaves a layer of loose material between the adhesive and the asphalt, weakening the bond.
-
-Step-by-step hole preparation procedures are included in our [installation guide](/installation/anchor-install/).
-
-### The Takeaway
-
-Anchor strength is a function of the product, the installation, and the operating conditions. A properly installed SP12 under reference test conditions will hold more than 4,000 lbs. The same anchor installed in a wet, dirty hole may not even reach its rated 2,000 lbs. Similarly, a properly installed anchor under load in hot pavement may have reduced pull capacity.
-
-This is why we invest heavily in installation documentation and training, and why we recommend that anyone new to asphalt anchoring review our procedures carefully before their first job.
-
-## On-Site Verification
-
-For critical applications or when local conditions are unknown, we recommend conducting on-site pull tests to verify anchor performance. Pull testing with standard hydraulic equipment confirms that installed anchors meet the required load in the actual pavement and conditions on your site. Our [pull test methodology](/testing/pull-test-methodology/) page describes the procedure.
-
-## Summary
-
-No ICC-ES or ASTM standard exists for asphalt anchoring — the testing frameworks were built for concrete and don't apply to asphalt substrates. In place of third-party certification, we publish our internal test data transparently, including failure mode analysis and the installation variables that affect performance. Our data consistently shows that properly installed BoltHold anchors exceed their rated load by a factor of two or more, with a graceful failure mode that maintains significant load resistance even past the point of initial bond failure.
-
-If you have questions about anchor performance for a specific application, [contact our engineering team](https://asphaltanchors.com/pages/contact).
+In place of third-party certification, we publish our own test information, including our [pull test methodology and videos](/testing/pull-test-methodology/) and [measured temperature results](/testing/high-pavement-temperature/). If your project requires certification or a particular approval, [contact us](https://asphaltanchors.com/pages/contact) to discuss the available test information and your project's requirements.

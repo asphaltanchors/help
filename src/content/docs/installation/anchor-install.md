@@ -7,33 +7,37 @@ Asphalt Anchors are specifically designed for anchoring structures to asphalt us
 
 ## Anchor Specifications
 
-| Model | Rated Pull | Drill Depth | Drill Diameter | Bolt Torque | Adhesive per Anchor |
-| --- | --- | --- | --- | --- | --- |
-| [[SP10]]/[[AM625]] | 1,500 lbs | 6" | 7/8" | 200 lb-in | 60 mL |
-| [[SP12]] | 2,000 lbs | 12" | 7/8" | 200 lb-in | 120 mL |
-| [[SP18]] | 2,500 lbs | 12" | 1" | 280 lb-in | 150 mL |
-| [[SP58]] | 5,000 lbs | 10" | 1.5" | 720 lb-in | 290 mL |
+| Model | Duty | Pull Guide Load | Side Guide Load | Drill Depth | Drill Diameter | Bolt Torque | Adhesive per Anchor |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [[SP10]]/[[AM625]] | Light | 900 lbs | 750 lbs | 6" | 7/8" | 200 lb-in | 60 mL |
+| [[SP12]] | Medium | 2,000 lbs | 1,500 lbs | 12" | 7/8" | 200 lb-in | 120 mL |
+| [[SP18]] | Heavy | 2,000 lbs | 1,500 lbs | 12" | 1" | 280 lb-in | 150 mL |
+| [[SP58]] | Extra heavy | 2,000 lbs | 1,500 lbs | 10" | 1.5" | 720 lb-in | 290 mL |
 
-**Spacing requirements:** Ratings assume 12" minimum between anchors. For closer spacing, derate all but the first anchor by 6% for every inch less than 12".
+Guide loads are for short-duration forces (under about 30 seconds) on anchors installed per these instructions in 3" asphalt. They are guidance based on our testing, not certified ratings or site-specific allowable loads. The SP12, SP18, and SP58 share the same guide loads because the asphalt sets the limit in 3" pavement; larger anchors hold up better to impacts, repeated loads, and sideways forces. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
 
-**Asphalt thickness:** Ratings based on 3" thickness. For thicker asphalt, increase capacity proportionally (e.g., 4" asphalt = 1.33x rating).
+**Spacing requirements:** Leave at least about 4" of solid asphalt between the edges of neighboring holes. That is roughly 5" center to center for 7/8" and 1" holes, and 5-1/2" for the SP58's 1-1/2" hole. Results vary with pavement condition. Closely spaced anchors pull on the same surrounding asphalt, so a tight group may resist less combined pull than the same anchors spread farther apart. [Contact us](https://asphaltanchors.com/pages/contact) about heavily loaded groups. To get closely spaced holes to line up, see [Aligning Anchor Holes](/installation/hole-alignment/).
 
-**Material selection:** Zinc plated and stainless steel anchors have the same published strength ratings. Choose the material based on corrosion exposure. See [Zinc Plated vs Stainless Steel Anchors](/product-info/zinc-vs-stainless/).
+**Asphalt thickness:** Guide loads reference 3" asphalt. Thicker asphalt generally increases pull resistance, but we have not yet tested it. See [Asphalt Thickness](/installation/asphalt-thickness/).
+
+**Material selection:** Zinc plated and stainless steel anchors have the same guide loads. Choose the material based on corrosion exposure. See [Zinc Plated vs Stainless Steel Anchors](/product-info/zinc-vs-stainless/).
 
 ## Installation Overview
 
-1. **Drill** - Create hole to specified depth and diameter
-2. **Brush** - Thoroughly clean hole with nylon tube brush
-3. **Pour** - Fill hole roughly 2/3 to the top with adhesive (EPX2 or EPX3)
-4. **Hammer** - Insert anchor with twisting motion until flush
-5. **Top Up** - Ensure adhesive reaches surface around anchor head
-6. **Flush** - Clean excess adhesive immediately
+1. **Mark** - Punch each hole location through a spacing template
+2. **Drill** - Create hole to specified depth and diameter
+3. **Brush** - Thoroughly clean hole with nylon tube brush
+4. **Pour** - Fill hole roughly 2/3 to the top with adhesive (EPX2 or EPX3)
+5. **Hammer** - Insert anchor with twisting motion until flush
+6. **Top Up** - Ensure adhesive reaches surface around anchor head
+7. **Flush** - Clean excess adhesive immediately
 
 ## Required Supplies
 
+* **Hole alignment:** Spacing template and a center punch or concrete chisel. See [Aligning Anchor Holes](/installation/hole-alignment/).
 * **Drilling:** SDS+ or SDS MAX drill & masonry bit. See [Find Installation Accessories Locally](/product-info/local-accessory-alternatives/) for compatible bit specifications and local alternatives.
 * **Cleaning:** Hole Cleaning Brush [[BRH]], compressed air or blower
-* **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (epoxy)
+* **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (acrylic resin)
 * **Installation:** Mallet
 
 For planning labor and tool selection, see [How Long Does Asphalt Anchor Installation Take?](/installation/installation-time/) and [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/).
@@ -60,6 +64,7 @@ For planning labor and tool selection, see [How Long Does Asphalt Anchor Install
 
 ### Drilling
 
+* Before drilling, mark every hole with a template and center punch so the bit doesn't skip in the first 1/2". See [Aligning Anchor Holes with a Template and Punch](/installation/hole-alignment/).
 * Use only SDS+ or SDS MAX drills - standard chucks will fail
 * Don't apply excessive force; this prevents jamming
 * Clean drill bit flutes after each hole
@@ -112,7 +117,7 @@ Mix for 4 anchors at minimum (smaller batches are hard to measure):
 
 ## Attaching Objects
 
-1. Wait 2 hours before loading (24 hours for maximum strength)
+1. Allow the selected adhesive to cure for the installation temperature before loading. See [Adhesive Selection](#adhesive-selection) and [Weather and Temperature Installation](/installation/bad-weather/).
 2. Remove bolt and washer
 3. Ensure mounting surface is flat and contacts anchor head
 4. Tighten to specified torque - **never use an impact wrench**
@@ -122,19 +127,20 @@ If you remove an attached object for the season or between uses, install a short
 
 ## Loading Guidelines
 
-**Dynamic loading (wind/snow/ice on stable structure):** Use 80% of rated pull capacity
+How long a force acts matters as much as how large it is. Asphalt resists a brief pull far better than a steady one, because it slowly flows under constant stress.
 
-**Static loading (continuous pull on anchors):** Limit to 20% of rated pull capacity
+* **Short-duration load (under about 30 seconds):** Use no more than the pull guide load. This matches our pull tests, where the load is applied over seconds.
+* **Continuous load (hours to months):** Limit to 20% of the pull guide load, or 180 lbs for the SP10 and 400 lbs for the SP12, SP18, and SP58. Examples include a strap or guy line under constant tension, or a structure that leans on its anchors.
 
-These percentages are applied to the published rated pull capacity. Neither the published ratings nor these loading guidelines are adjusted for hot pavement.
+The continuous-load limit is a guideline from our experience, not a tested or guaranteed value. A weather-related load such as sustained wind is not necessarily brief; treat any force that lasts longer than about 30 seconds as continuous.
+
+Apply these limits to the guide load, not to a measured peak force. The pull guide load is set low enough to stay below our lowest results on 120°F pavement; nothing above 120°F has been tested. For critical applications or continuous tension, [contact us](https://asphaltanchors.com/pages/contact) to discuss the loading conditions and appropriate evaluation.
 
 :::caution[Hot pavement can reduce anchor capacity]
-In our Sonoma testing on PG64-16 pavement, all anchor models tested at the 120°F pavement-temperature bucket retained approximately 58–62% of their average pull capacity in the 70°F reference bucket.
-
-This result is specific to the tested pavement and does not provide a universal temperature-adjusted rating. For critical hot-pavement applications, use site-specific pull testing or [contact us](https://asphaltanchors.com/pages/contact) for guidance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the measured results and limitations.
+Hot pavement can reduce the pull resistance of a correctly installed, fully cured anchor. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for our measured peak-force results and their limits. The measured temperature percentages describe our test pavement and are not a universal adjustment to the guide loads or loading guidelines.
 :::
 
-Asphalt flows under continuous stress but is resilient under short-duration forces. The adhesive creates a stress-free bond that holds for years, unlike expansion anchors which loosen in asphalt.
+Adhesive bonding avoids relying on expansion pressure against the hole walls. The surrounding asphalt can still move under continuous stress, which is why the continuous-load limit is much lower.
 
 ## Temperature Considerations
 
@@ -142,6 +148,7 @@ Adhesive temperature limits control when an anchor can be installed and how quic
 
 ## Common Errors to Avoid
 
+* Drilling without punching hole locations first (the bit wanders and multi-anchor patterns won't line up)
 * Insufficient hole cleaning (causes weak bond)
 * Not using sufficient adhesive - there must be squeeze out with anchor fully inserted
 * Over-torquing bolts or using impact wrench

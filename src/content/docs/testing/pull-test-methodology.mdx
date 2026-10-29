@@ -1,39 +1,60 @@
 ---
 title: Pull Test Methodology
-description: Detailed overview of how we test Asphalt Anchors
+description: Our pull test setup, peak-force and displacement measurements, temperature comparisons, and test videos.
 ---
-Asphalt Anchors conducts rigorous pull testing to determine the rated holding strength of our anchor and adhesive systems. All testing is performed on representative asphalt installations to ensure real-world performance data.
+
+import YouTubeEmbed from '../../../components/YouTubeEmbed.astro';
+
+We test installed anchor and adhesive combinations by applying a short-duration vertical pull and recording force and movement. This page describes the test procedure. For help interpreting the results, start with [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
 
 ## Test Installation
-Anchors are installed following manufacturer instructions and allowed to cure for a minimum of 24 hours before testing. Extended cure time testing (up to 6 months) has shown no significant variation in strength, confirming that anchors reach full strength within the initial cure period.
 
-All tests are performed on professionally installed PG 64-16 asphalt, 3" thick over 3" compacted road base, aged approximately 1 year to simulate typical residential driveways.
+Our reference test pavement is professionally installed PG64-16 asphalt, 3 inches thick over 3 inches of compacted road base, aged approximately one year, in Sonoma County.
+
+Test anchors are installed following our [installation instructions](/installation/anchor-install/) and allowed to cure for a minimum of 24 hours before testing. For field installations, follow the selected adhesive's curing requirements for the installation temperature.
 
 ## Test Equipment & Procedure
-We use a calibrated hydraulic jack with integrated pressure gauge mounted in a custom 3-point support stand. The stand measures 12" tall with legs spaced 18" apart in an equilateral triangular pattern. This configuration transfers the pulling force into the asphalt surface around the anchor being tested.
 
-The anchor is threaded through the center of the jack. Force is applied gradually over approximately one minute while data is logged at 500ms intervals. Each test is video recorded for visual verification.
+We use a calibrated hydraulic jack with an integrated pressure gauge mounted in a custom three-point support stand. The stand is 12 inches tall, with legs spaced 18 inches apart in an equilateral triangle. The legs transfer the reaction force to the asphalt around the test anchor.
+
+The anchor is connected through the center of the jack. We pull gradually over approximately one minute while logging force at 500 ms intervals. Each test is video recorded to observe movement. Force can decrease after the peak as the asphalt and anchor move.
 
 ## Measurement Points
-Three critical data points are recorded for each test:
 
-* First Movement: Force at 1/8" vertical displacement
-* Major Movement: Force at 1/2" vertical displacement (considered functional failure)
-* Ultimate Failure: Maximum force achieved before complete pullout
+| Measurement | What it records |
+| --- | --- |
+| **Peak pull force** | The highest force recorded during the test. |
+| **Force at 1/8-inch displacement** | The force when vertical movement reaches 1/8 inch. This is a measurement threshold, not the first possible movement. |
+| **Force at 1/2-inch displacement** | The force when vertical movement reaches 1/2 inch. We treat this as functional failure in our test procedure. |
 
-We use the Major Movement value as our primary performance metric, as this represents the point where an anchor would no longer reliably hold a load.
+In most testing, peak force occurs with less than 1/4 inch of movement. Once the asphalt starts to move, the measured force generally decreases. Peak force and force at 1/2-inch displacement therefore describe different points in the test; the latter may occur after the peak.
 
-## Rating Methodology
-Each anchor size and adhesive combination is tested a minimum of 3 times, with many configurations tested 9 or more times to ensure statistical validity. The rated strength is calculated as 90% of the average Major Movement force across all tests, providing a conservative safety margin.
+The displacement thresholds describe test behavior. They do not establish acceptable movement for an attachment in service, which may tolerate much less movement. Continued resistance after the peak is not additional usable capacity or a guarantee of warning before failure.
 
-Individual test results, including specific anchor models, adhesive types, and detailed force data, are published separately with each product rating.
+## Guide Loads and Test Results
 
-## Temperature Considerations
+Our guide loads come from this test program. The pull guide load is about half the low end of our peak pull results on pavement below 90°F, which keeps it below the low end of our results on 120°F pavement. The side guide load is the force at which anchors start to shift sideways in our side-load tests.
 
-Our temperature testing uses the PG64-16 pavement described above. Temperature measurements are grouped into 10°F buckets. A bucket label identifies a group of measurements; it does not mean every test occurred at exactly the labeled temperature.
+Individual test results describe measured performance under the conditions tested. Keep the measured peak force, any force recorded at a displacement threshold, and the guide load separate when interpreting a result. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/#what-the-numbers-mean).
 
-For each anchor model, we calculate the average pull capacity in the 70°F bucket and use it as that model's 100% reference. Results in higher-temperature buckets are divided by the same model's reference average before models are compared. This prevents differences in anchor size and baseline strength from obscuring the temperature effect.
+## Temperature Comparisons
 
-The 120°F bucket is the highest tested so far. Each anchor model's average normalized pull capacity at 120°F fell between 58% and 62% of its corresponding 70°F reference. We do not extrapolate the result above the measured range or use it as a universal correction for other pavement.
+For temperature comparisons, measured pull capacity refers to peak pull force. Measurements are grouped into 10°F pavement-temperature buckets; a bucket label does not mean every test occurred at exactly that temperature.
 
-Binder grade, mix characteristics, pavement condition, load duration, and the temperature through the anchor depth can all affect performance. See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the measured result, an SP10 example, and guidance on applying the information.
+For each anchor model, we calculate the average peak pull force in the 70°F bucket and use it as that model's 100% reference. We divide each higher-temperature bucket's average by the same model's reference average before comparing models. These percentages are relative to measured reference averages, not guide loads.
+
+See [High Pavement Temperature and Anchor Capacity](/testing/high-pavement-temperature/) for the measured results, SP10 example, and tested temperature range.
+
+## Test Videos
+
+These videos show force and movement during individual pull tests. The behavior shown applies to those installations and test conditions.
+
+<YouTubeEmbed id="voYgxWpnQcw" title="SP10 Pull Test" />
+<YouTubeEmbed id="3ZyxwX_Vdh0" title="SP12 Pull Test" />
+<YouTubeEmbed id="gFGQq-5cySc" title="SP18 Pull Test" />
+
+## Tests on Your Site
+
+Site-specific tests can help evaluate local pavement and installation conditions. For an installation-verification test, the target load, loading duration, movement limit, and test temperature should be established for the application before testing. The destructive tests described here are not a proof-test procedure for anchors intended to remain in service.
+
+A brief pull test measures performance under the conditions tested. It does not establish performance under sustained tension, repeated loading, or sideways forces. [Contact us](https://asphaltanchors.com/pages/contact) to discuss testing for your application.
