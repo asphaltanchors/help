@@ -43,7 +43,7 @@ Guide loads are for short-duration forces on anchors installed per these instruc
 ## Required Supplies
 
 * **Hole alignment:** Spacing template and a center punch or concrete chisel. See [Aligning Anchor Holes](/installation/hole-alignment/).
-* **Drilling:** SDS-Plus rotary hammer (SDS-Max for the SP58) and a masonry bit of the correct diameter. See [Find Installation Accessories Locally](/product-info/local-accessory-alternatives/) for bit specifications.
+* **Drilling:** SDS-Plus rotary hammer (SDS-Max for the SP58) and a masonry bit of the correct diameter. For a corded drill, use a power source rated for more than 2,000 watts if possible; small generators, vehicle outlets, and power banks can make drilling much slower. See [Power Supply](/installation/hammer-drill-size-installation-time/#power-supply). See [Find Installation Accessories Locally](/product-info/local-accessory-alternatives/) for bit specifications.
 * **Cleaning:** Hole cleaning brush [[BRH]], a drill with a locking extension, and compressed air or a blower. See [Clean the Hole](/installation/hole-cleaning/).
 * **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (acrylic resin). EPX3 needs a 40:1 high-thrust caulk gun.
 * **Installation:** Mallet

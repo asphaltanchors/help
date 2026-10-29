@@ -67,6 +67,21 @@ These times are useful for planning, but they are not universal. Asphalt strengt
 
 For planning purposes, allow for significant variance. We have seen difficult asphalt conditions increase drilling time by up to 100%.
 
+## Power Supply
+
+A corded rotary hammer only drills as fast as its power source allows. On a weak supply, the drill slows under load, the flutes pack with debris, and every hole takes much longer.
+
+In one test, running from a 1,500 watt inverter increased SP58 drilling time to more than 8 minutes per hole, compared with 1:45 on full power. The bit also had to be cleared out continuously.
+
+Many power sources can't deliver what a large rotary hammer needs:
+
+* Small portable generators
+* Vehicles with built-in 120V outlets
+* Portable power stations and power banks
+* Small inverters
+
+Ideally, use a power source rated for more than 2,000 watts of continuous output. Check the continuous rating, not the peak or surge rating. Compare it with your drill's rating: a 15 amp drill can draw about 1,800 watts at 120V. Keep extension cords short and heavy enough for the drill's current, because a long, thin cord also starves the drill of power.
+
 ## Drill Bit Comparison
 
 We also compared a roughly $200 Milwaukee drill bit against the bit we sell. There was no meaningful time difference in the holes tested.

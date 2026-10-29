@@ -17,7 +17,7 @@ Drilling is usually the biggest share of the time. With a Bosch RH745 rotary ham
 | 1-1/8" | [[SP18]] | 0:30 |
 | 1.5" | [[SP58]] | 1:45 |
 
-A smaller drill is slower: a $150 SDS-Max rotary hammer took 2:30 for the same 1.5" hole. Difficult asphalt can double drilling time. See [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/) for the full comparison and when a bigger drill pays off.
+A smaller drill is slower: a $150 SDS-Max rotary hammer took 2:30 for the same 1.5" hole. Difficult asphalt can double drilling time. A weak power supply can be far worse: on a 1,500 watt inverter, an SP58 hole took more than 8 minutes. Ideally, use a power source rated for more than 2,000 watts. See [Hammer Drill Size and Installation Time](/installation/hammer-drill-size-installation-time/) for the full comparison and when a bigger drill pays off.
 
 Keep the bit sharp and clear the flutes after each hole. Packed flutes slow the hole and can jam the bit.
 
@@ -60,6 +60,7 @@ Before estimating a job, confirm:
 * Asphalt thickness and condition
 * Weather and whether holes will be wet
 * Drill size and bit condition
+* Power source for a corded drill (ideally more than 2,000 watts)
 * Adhesive
 * Whether the anchors need to be loaded the same day
 
