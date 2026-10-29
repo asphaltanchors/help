@@ -6,9 +6,11 @@ import remarkProductLinks from "./plugins/remark-product-links.mjs";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://help.asphaltanchors.com",
   integrations: [
     starlight({
       title: "Asphalt Anchors",
+      disable404Route: true,
       logo: {
         src: "./src/assets/logo-horizontal.png",
         alt: "Asphalt Anchors",

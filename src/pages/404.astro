@@ -1,0 +1,19 @@
+---
+// Replaces Starlight's built-in 404 route (disable404Route), which looks up a `404` docs entry
+// and warns at build time when there isn't one.
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+
+<StarlightPage
+	frontmatter={{
+		title: 'Page not found',
+		template: 'splash',
+		editUrl: false,
+		pagefind: false,
+		hero: {
+			title: 'Page not found',
+			tagline: Astro.locals.t('404.text'),
+			actions: [{ text: 'Go to help home', link: '/', icon: 'right-arrow' }],
+		},
+	}}
+/>
