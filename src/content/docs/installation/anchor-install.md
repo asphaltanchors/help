@@ -26,7 +26,7 @@ Guide loads are for short-duration forces on anchors installed per these instruc
 
 **Edge distance:** Install every anchor at least 9" from the edge of the asphalt. See [Edge Installation](/installation/edge/).
 
-**Asphalt thickness:** Guide loads reference 3" asphalt. We discourage using our anchors in asphalt thinner than 3". See [Asphalt Thickness](/installation/asphalt-thickness/).
+**Asphalt thickness:** Your asphalt does not need to be as thick as the drill depth. The hole goes through the asphalt into the gravel and dirt below, and the adhesive creates a solid connection through all of it. Guide loads reference 3" asphalt. We discourage using our anchors in asphalt thinner than 3". See [Why the Hole Is Deeper Than the Asphalt](/installation/asphalt-thickness/#why-the-hole-is-deeper-than-the-asphalt).
 
 **Material:** Zinc plated and stainless steel anchors have the same guide loads. Choose based on corrosion exposure. See [Zinc Plated vs Stainless Steel Anchors](/product-info/zinc-vs-stainless/).
 
