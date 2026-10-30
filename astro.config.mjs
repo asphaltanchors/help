@@ -7,6 +7,10 @@ import remarkProductLinks from "./plugins/remark-product-links.mjs";
 // https://astro.build/config
 export default defineConfig({
   site: "https://help.asphaltanchors.com",
+  // No landing page: send visitors straight to a guide with the full sidebar.
+  redirects: {
+    "/": "/installation/anchor-install/",
+  },
   integrations: [
     starlight({
       title: "Asphalt Anchors",
@@ -88,6 +92,7 @@ export default defineConfig({
             "installation/edge",
             "installation/asphalt-thickness",
             "installation/protecting-anchor-threads",
+            "installation/speed-bumps",
           ],
         },
         {
@@ -97,10 +102,6 @@ export default defineConfig({
             "installation/hammer-drill-size-installation-time",
             "product-info/local-accessory-alternatives",
           ],
-        },
-        {
-          label: "Applications",
-          items: ["installation/speed-bumps"],
         },
         {
           label: "Products",
