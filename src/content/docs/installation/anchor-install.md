@@ -36,7 +36,7 @@ Guide loads are for short-duration forces on anchors installed per these instruc
 2. **Drill** - Drill the hole to the specified depth and diameter
 3. **Clean** - Brush the hole with a hole cleaning brush on a drill, blow it out, and repeat
 4. **Pour** - Fill the hole roughly 2/3 full with adhesive (EPX2 or EPX3)
-5. **Insert** - Push the anchor in with a slow up-and-down motion until flush, using a mallet if needed
+5. **Insert** - With the bolt and washer still threaded in, push the anchor in with a slow up-and-down motion until flush, using a mallet if needed
 6. **Top up** - Make sure adhesive reaches the surface around the anchor head
 7. **Clean up** - Remove excess adhesive immediately
 
@@ -115,11 +115,12 @@ Mix enough for at least 4 anchors at a time; smaller batches are hard to measure
 
 ### Anchor Insertion
 
-1. Push anchor with slow up/down motion to coat entire length
-2. When anchor head is 2" from surface, check adhesive level and top up if needed
-3. Push anchor flush with surface (use mallet if needed)
-4. **Success indicator:** Adhesive squeezed out around anchor head
-5. Immediately clean excess adhesive with water or scrape away
+1. Leave the bolt and washer threaded in the anchor. They keep adhesive and dirt out of the thread, and they can't get lost before you attach your object. Remove them only when you attach it.
+2. Push anchor with slow up/down motion to coat entire length
+3. When anchor head is 2" from surface, check adhesive level and top up if needed
+4. Push anchor flush with surface (use mallet if needed)
+5. **Success indicator:** Adhesive squeezed out around anchor head
+6. Immediately clean excess adhesive with water or scrape away
 
 ## Attaching Objects
 
@@ -147,6 +148,7 @@ Hot pavement reduces how much a cured anchor can hold. The guide loads already a
 * Drilling without punching hole locations first (the bit wanders and multi-anchor patterns won't line up)
 * Insufficient hole cleaning, or brushing by hand instead of with a brush on a drill (causes weak bond)
 * Not using sufficient adhesive - there must be squeeze out with anchor fully inserted
+* Removing the bolt before inserting the anchor (adhesive or dirt can get into the thread, and the bolt gets lost)
 * Over-tightening bolts or using an impact wrench
 * Mounting anchor on top of anything other than the asphalt
 
