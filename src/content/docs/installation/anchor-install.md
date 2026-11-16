@@ -22,7 +22,7 @@ Dimensions, bolt sizes, and kit contents are listed on each product page. To wor
 
 Guide loads are for short-duration forces on anchors installed per these instructions in 3" asphalt. They are guidance based on our testing, not certified ratings. The SP12, SP18, and SP58 share the same guide loads because the asphalt sets the limit; larger anchors hold up better to impacts, repeated loads, and sideways forces. See [Understanding Anchor Strength and Guide Loads](/testing/anchor-strength-testing/).
 
-**Spacing:** Space anchors at least 5" center to center. This applies to every model, including the SP58. Closely spaced anchors pull on the same surrounding asphalt, so a tight group may resist less combined pull than the same anchors spread farther apart. [Contact us](https://asphaltanchors.com/pages/contact) about heavily loaded groups. To get closely spaced holes to line up, see [Aligning Anchor Holes](/installation/hole-alignment/).
+**Spacing:** Space anchors at least 5" center to center. This applies to every model, including the SP58. Closely spaced anchors pull on the same surrounding asphalt, so a tight group may resist less combined pull than the same anchors spread farther apart. [Contact us](https://asphaltanchors.com/pages/contact) about heavily loaded groups. Mark each hole before drilling so the holes land where you measured. See [Mark Each Hole Before Drilling](/installation/hole-alignment/).
 
 **Edge distance:** Install every anchor at least 9" from the edge of the asphalt. See [Edge Installation](/installation/edge/).
 
@@ -32,7 +32,7 @@ Guide loads are for short-duration forces on anchors installed per these instruc
 
 ## Installation Overview
 
-1. **Mark** - Punch each hole location through a spacing template
+1. **Mark** - Make a starter hole at least 1/2" deep at each hole location
 2. **Drill** - Drill the hole to the specified depth and diameter
 3. **Clean** - Brush the hole with a hole cleaning brush on a drill, blow it out, and repeat
 4. **Pour** - Fill the hole roughly 2/3 full with adhesive (EPX2 or EPX3)
@@ -42,7 +42,7 @@ Guide loads are for short-duration forces on anchors installed per these instruc
 
 ## Required Supplies
 
-* **Hole alignment:** Spacing template and a center punch or concrete chisel. See [Aligning Anchor Holes](/installation/hole-alignment/).
+* **Marking:** A template (or the object itself) and a center punch, chisel, or second drill with a 1/4" bit. See [Mark Each Hole Before Drilling](/installation/hole-alignment/).
 * **Drilling:** SDS-Plus rotary hammer (SDS-Max for the SP58) and a masonry bit of the correct diameter. For a corded drill, use a power source rated for more than 2,000 watts if possible; small generators, vehicle outlets, and power banks can make drilling much slower. See [Power Supply](/installation/hammer-drill-size-installation-time/#power-supply). See [Find Installation Accessories Locally](/product-info/local-accessory-alternatives/) for bit specifications.
 * **Cleaning:** Hole cleaning brush [[BRH]], a drill with a locking extension, and compressed air or a blower. See [Clean the Hole](/installation/hole-cleaning/).
 * **Adhesive:** [[EPX2]] (cement) or [[EPX3]] (acrylic resin). EPX3 needs a 40:1 high-thrust caulk gun.
@@ -76,9 +76,18 @@ EPX2 is a rapid-setting anchoring cement, similar to fence post cement. Like any
 
 ## Critical Installation Steps
 
+### Marking
+
+A masonry bit skips and wanders on the asphalt surface before it bites. A starter hole at each location keeps it on the mark.
+
+1. Find each hole location using the object itself or a template.
+2. Make a starter hole at least 1/2" deep on every mark, with a center punch or chisel and a hammer, or a 1/4" pilot hole from a second drill.
+3. Start the full-size bit in each starter hole.
+
+Make every starter hole before drilling any full-size hole. See [Mark Each Hole Before Drilling](/installation/hole-alignment/) for methods and when you need a template.
+
 ### Drilling
 
-* Before drilling, mark every hole with a template and center punch so the bit doesn't skip in the first 1/2". See [Aligning Anchor Holes with a Template and Punch](/installation/hole-alignment/).
 * Use only SDS-Plus or SDS-Max rotary hammers - standard chucks will fail
 * Don't apply excessive force; this prevents jamming
 * Clean drill bit flutes after each hole
@@ -145,7 +154,7 @@ Hot pavement reduces how much a cured anchor can hold. The guide loads already a
 
 ## Common Errors to Avoid
 
-* Drilling without punching hole locations first (the bit wanders and multi-anchor patterns won't line up)
+* Drilling without a starter hole at each location (the bit wanders, holes land off the mark, and multi-anchor patterns won't line up)
 * Insufficient hole cleaning, or brushing by hand instead of with a brush on a drill (causes weak bond)
 * Not using sufficient adhesive - there must be squeeze out with anchor fully inserted
 * Removing the bolt before inserting the anchor (adhesive or dirt can get into the thread, and the bolt gets lost)

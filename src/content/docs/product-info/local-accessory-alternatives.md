@@ -52,11 +52,11 @@ Use a locking drill-bit extension with the hole-cleaning brush so the brush can 
 
 Choose an extension that is compatible with both your drill and the brush drive. This cleaning step does not require an SDS rotary hammer; any compatible drill can be used. See [Clean the Hole Before Installing Asphalt Anchors](/installation/hole-cleaning/) for the cleaning procedure.
 
-## Center punches and chisels for hole alignment
+## Center punches and chisels for marking holes
 
-To keep the drill bit from skipping when it starts, hammer a pointed tool at least 1/2" into the asphalt at each hole location before drilling. See [Aligning Anchor Holes with a Template and Punch](/installation/hole-alignment/) for the procedure.
+To keep the drill bit from skipping when it starts, make a starter hole at least 1/2" deep at each hole location before drilling. A pointed tool hammered into the asphalt is one way to do it. See [Mark Each Hole Before Drilling](/installation/hole-alignment/) for this and other methods.
 
-Any center punch or pointed chisel sturdy enough to hammer into asphalt will work. For example:
+Any center punch or pointed chisel sturdy enough to hammer into asphalt will work. If you want to punch through the mounting holes of the object you are anchoring, check that the tool fits: many punches and chisels, including the concrete chisel below, have a thick shank behind the tip. For example:
 
 * [Stanley FATMAX 3/8 in. Center Punch](https://www.acmetools.com/stanley-fatmax-3-8-in-center-punch-fmht16446/076174164466.html) — Acme Tools
 * [Klein Tools 66312 Center Punch, 3/8 in. x 8 in.](https://www.amazon.com/dp/B000936R28) — Amazon

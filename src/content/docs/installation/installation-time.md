@@ -36,7 +36,7 @@ If anchors must be loaded the same day, include cure time in the plan. See [EPX2
 
 Small jobs feel slower per anchor because setup, mixing, and cleanup are spread across fewer anchors. On larger jobs, batch the work:
 
-1. Mark all locations.
+1. Make a starter hole at every location.
 2. Drill all holes.
 3. Brush and blow out all holes.
 4. Place adhesive.
