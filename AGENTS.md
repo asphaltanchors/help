@@ -1,29 +1,18 @@
-# AGENTS.md
+# help.asphaltanchors.com
 
-Guidance for agents working in this repository.
+Public help site (Astro + Starlight). It is the public source of truth for product facts: specs, guide loads, spacing, install steps, adhesives, testing and returns. Other surfaces (storefront, datasheets, ads) should match it.
 
-## Project summary
-- Help site for asphaltanchors.com built with Astro + Starlight.
-- Docs live in `src/content/docs/` as Markdown/MDX; file path becomes route.
-- Sidebar is auto-generated from folder structure in `astro.config.mjs`.
+## Commands
+- `npm run dev` (localhost:4321), `npm run build`, `npm run preview`
 
-## Quick commands
-- `npm run dev` start dev server at localhost:4321
-- `npm run build` build production site to `./dist/`
-- `npm run preview` preview production build
+## Content
+- Docs live in `src/content/docs/<section>/` as .md/.mdx; the path is the route. The sidebar is listed explicitly in `astro.config.mjs`, so add new pages there.
+- Frontmatter needs `title` and `description` (`src/content.config.ts`). Images in `src/assets/`, static files in `public/`. No homepage: `/` redirects to the installation guide (`astro.config.mjs`).
+- Practical guidance, not marketing copy.
 
-## Content rules
-- New docs go in `src/content/docs/` under the right section folder.
-- Frontmatter requires `title` and `description` (validated in `src/content.config.ts`).
-- Static assets: `public/`; images for docs: `src/assets/`.
-- Homepage is `src/content/docs/index.mdx` using Starlight `splash` and `Card`/`CardGrid`.
-
-## Common tasks
-- Add a doc: create a `.md`/`.mdx` file with required frontmatter.
-- Update navigation: move/add files in `src/content/docs/` (sidebar autogenerates).
-- Update homepage cards: edit `src/content/docs/index.mdx`.
-
-## Quality checklist
-- Ensure frontmatter has `title` and `description`.
-- Keep headings and links consistent with file-based routing.
-- Prefer concise, practical guidance over marketing copy.
+## Copy rules
+- Recommendations are starting points, not engineering guidance. Test results are not design values.
+- Guide loads: SP10 900 lb pull / 750 lb side; SP12, SP18, SP58 2,000 / 1,500. Never older ratings.
+- Don't cite a fixed heat limit as a product rating; heat tolerance depends on the asphalt mix.
+- EPX2 is an anchoring cement, never "epoxy". HD75 and US50 are concepts; keep them off the site.
+- Don't write "SP anchor" or "SP family"; name the model.
