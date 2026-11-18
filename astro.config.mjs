@@ -107,6 +107,7 @@ export default defineConfig({
           label: "Products",
           items: [
             "product-info/adhesive-options",
+            "product-info/datasheets",
             "installation/faq-required-adhesive",
             "product-info/shelf-life",
             "product-info/zinc-vs-stainless",
